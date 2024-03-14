@@ -8,7 +8,6 @@
     render 'products_per_row', products_per_row: products_per_row, style: 'fractions'
   endcapture
 -%}
-
 <div class="grid grid--uniform{% unless settings.collection_grid_gutter %} grid--no-gutters{% endunless %}">
   {%- for sub_collection_link in sub_collection_links -%}
     {%- if sub_collection_link.url contains '/collections/' -%}
