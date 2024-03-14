@@ -8,7 +8,6 @@
   {%- if form.errors and form.context == snippet_context -%}
     {{ form.errors | default_errors }}
   {%- endif -%}
-
   {%- unless form.posted_successfully? -%}
     <label for="Email-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.newsletter_email' | t }}</label>
     <label for="newsletter-form-submit-{{ section_id }}" class="hidden-label">{{ 'general.newsletter_form.submit' | t }}</label>

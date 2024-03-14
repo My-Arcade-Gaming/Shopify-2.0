@@ -6,7 +6,6 @@
     assign dark_search_bg = true
   endif
 -%}
-
 <predictive-search data-context="{{ context }}" data-enabled="{{ settings.predictive_search_enabled }}" data-dark="{{ dark_search_bg }}">
   <div class="predictive__screen" data-screen></div>
   <form action="{{ routes.search_url }}" method="get" role="search">
