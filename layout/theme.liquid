@@ -160,7 +160,7 @@
     {%- sections 'header-group' -%}
     {%- sections 'popup-group' -%}
       <main class="main-content" id="MainContent">
-        {{ content_for_layout }}
+       {% capture layout %} {{ content_for_layout }} {% endcapture %} {{ layout | replace: "<iframe","<iframe loading='lazy' " }}
       </main>
     {%- sections 'footer-group' -%}
     </div>
