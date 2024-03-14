@@ -2,7 +2,6 @@
   data-section-id="{{ section.id }}"
   data-section-type="slideshow-section"
   {% if section.settings.parallax %}data-parallax="true"{% endif %}>
-
   {%- if section.blocks.size > 0 -%}
     <div class="slideshow-wrapper">
       {%- if section.settings.autoplay and section.settings.style == 'bars' and section.blocks.size > 1 -%}
