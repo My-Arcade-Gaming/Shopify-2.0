@@ -163,18 +163,14 @@
       <main class="main-content" id="MainContent">
         {{ content_for_layout }}
       </main>
-
     {%- sections 'footer-group' -%}
-
     </div>
   </div>
-
   {%- liquid
     render 'video-modal'
     render 'photoswipe-template'
     render 'tool-tip'
   -%}
-
   {% comment %} Image markup used when building product grid item via JS {% endcomment %}
   <template id="naturalImageMarkup">
     <div class="image-wrap" style="height: 0;">
