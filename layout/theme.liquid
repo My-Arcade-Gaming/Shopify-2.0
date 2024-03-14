@@ -78,7 +78,7 @@
   {%- endif -%}
 
   {%- render 'social-meta-tags' -%}
-
+  <link rel="preload" href="https://use.typekit.net/tpt6pkv.css" as="style">
   {%- render 'font-face' -%}
   {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
   {%- render 'css-variables' -%}
