@@ -6,7 +6,6 @@
     #shopify-section-{{ section.id }} .index-section { padding-bottom: 0 !important; }
   {%- endif -%}
 {%- endstyle -%}
-
 <div class="{% unless section.settings.full_width %}index-section{% endunless %} color-scheme-{{ section.settings.color_scheme }}">
   {%- if section.settings.color_scheme != 'none' -%}
     {%- render 'color-scheme-texture', color_scheme: section.settings.color_scheme -%}
