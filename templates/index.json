@@ -1,1 +1,699 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"top_subheading":"Available now","title":"Atari Gamestation Pro","title_size":60,"subheading":"Download Firmware Update v.1.30","link":"shopify:\/\/products\/atari-gamestation-pro","link_text":"Learn more","link_2":"","link_text_2":"","color_accent":"#b30000","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/Website-header-01.jpg","image_mobile":"shopify:\/\/shop_images\/Website-header-01_Mobile.jpg","parallax_direction":"top","overlay_opacity":0}},"d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd":{"type":"image","settings":{"top_subheading":"","title":"Atari Collection","title_size":60,"subheading":"Futuristic since forever","link":"shopify:\/\/collections\/atari-50","link_text":"Shop","link_2":"","link_text_2":"","color_accent":"#b30000","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/Website-header-02.jpg","image_mobile":"shopify:\/\/shop_images\/Website-header-02_Mobile.jpg","parallax_direction":"top","overlay_opacity":0}},"d421d03e-59de-4349-8798-414cc772243c":{"type":"image","settings":{"top_subheading":"","title":"Super Street Fighter II","title_size":60,"subheading":"All your favorite characters!","link":"shopify:\/\/collections\/street-fighter","link_text":"Shop","link_2":"","link_text_2":"","color_accent":"#b30000","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/Website-header-03.jpg","image_mobile":"shopify:\/\/shop_images\/Website-header-03_Mobile.jpg","parallax_direction":"top","overlay_opacity":0}},"1f8402bf-57ed-4d9d-8ed4-d996aa70e05a":{"type":"image","settings":{"top_subheading":"","title":"2023 My Arcade Collection","title_size":60,"subheading":"Choose from legendary titles","link":"shopify:\/\/collections\/all","link_text":"Shop","link_2":"","link_text_2":"","color_accent":"#b30000","text_align":"vertical-bottom horizontal-left","image":"shopify:\/\/shop_images\/Website-header-04.jpg","image_mobile":"shopify:\/\/shop_images\/Website-header-04_Mobile.jpg","parallax_direction":"top","overlay_opacity":0}},"0b4aca8e-8a56-4764-afd7-25a0ff00366d":{"type":"image","disabled":true,"settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/CES_Banner.jpg","parallax_direction":"top","overlay_opacity":0}}},"block_order":["slideshow-0","d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd","d421d03e-59de-4349-8798-414cc772243c","1f8402bf-57ed-4d9d-8ed4-d996aa70e05a","0b4aca8e-8a56-4764-afd7-25a0ff00366d"],"custom_css":["h2 {font-weight: 900;}"],"settings":{"section_height":"750px","mobile_height":"100vh","parallax":false,"style":"dots","autoplay":true,"autoplay_speed":7,"lazyload_images":false}},"e78485fc-7612-4766-a96f-34800d6bb942":{"type":"featured-product","blocks":{"template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-price-1":{"type":"price","settings":{}},"5ecfa571-8427-434d-9775-42cab3f236c6":{"type":"custom","settings":{"code":"<p>Atari® is a pioneer in the video game industry, responsible for some of the most iconic games of all time, including PONG®, Breakout®, and Asteroids®. Atari was founded in 1972 and, with a rich history that spans over 50 years, is one of the oldest video game companies in the world. With its focus on innovative gameplay and cutting-edge technology, Atari has always been at the forefront of the gaming industry. The Gamestation Pro has over 200 games, including Atari 2600, Atari 5200, Atari 7800, Atari arcade and bonus games.<\/p>"}},"template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-description-1":{"type":"description","disabled":true,"settings":{"is_tab":false}},"template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-variant_picker-1":{"type":"variant_picker","settings":{"variant_labels":true,"picker_type":"button","product_dynamic_variants_enable":true,"color_swatches":false}},"template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":true,"show_gift_card_recipient":false}}},"block_order":["template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-price-1","5ecfa571-8427-434d-9775-42cab3f236c6","template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-description-1","template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-variant_picker-1","template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1"],"settings":{"featured_product":"atari-gamestation-pro","divider":false,"sku_enable":false,"image_position":"left","image_size":"large","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_arrows":false,"mobile_layout":"partial","enable_video_looping":true,"product_video_style":"muted"}},"776fe282-8229-4a93-9f52-557875a135e7":{"type":"featured-collection-slider","blocks":{"9210b1d6-67b0-4a24-a337-3078831fb0bb":{"type":"collection","settings":{"collection":"atari-gamestation-pro","title":"","focal_point":"center center"}},"template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-2":{"type":"collection","settings":{"collection":"atari-50","title":"","focal_point":"center center"}},"template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-3":{"type":"collection","settings":{"collection":"pac-man","title":"","focal_point":"center center"}},"a664e38c-63e3-4536-a8e3-f96a2812405e":{"type":"collection","settings":{"collection":"ms-pac-man","title":"","focal_point":"center center"}},"96b09774-6615-4e81-8df8-ba85d69df15a":{"type":"collection","settings":{"collection":"galaga","title":"","focal_point":"center center"}},"template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-1":{"type":"collection","settings":{"collection":"street-fighter","title":"","focal_point":"center center"}},"eb21a225-822c-41ef-a4dc-dc82fff31460":{"type":"collection","settings":{"collection":"street-fighter-2-champion-edition","title":"","focal_point":"center center"}},"template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-4":{"type":"collection","settings":{"collection":"mega-man","title":"","focal_point":"center center"}},"5a3540b4-cd8c-4062-a7c0-545a9e8daaef":{"type":"collection","settings":{"collection":"tetris-8bit","title":"Tetris 8-bit","focal_point":"center center"}},"4a4eed81-5b8b-4bd5-8fa9-db294508947f":{"type":"collection","settings":{"collection":"tetris-16bit","title":"Tetris 16-bit","focal_point":"center center"}},"925a2ac5-e89d-4ac9-b194-0ab026bf1377":{"type":"collection","settings":{"collection":"space-invaders","title":"","focal_point":"center center"}},"c144f328-b680-458c-8e8e-c4814969a87b":{"type":"collection","settings":{"collection":"data-east","title":"","focal_point":"center center"}}},"block_order":["9210b1d6-67b0-4a24-a337-3078831fb0bb","template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-2","template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-3","a664e38c-63e3-4536-a8e3-f96a2812405e","96b09774-6615-4e81-8df8-ba85d69df15a","template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-1","eb21a225-822c-41ef-a4dc-dc82fff31460","template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-4","5a3540b4-cd8c-4062-a7c0-545a9e8daaef","4a4eed81-5b8b-4bd5-8fa9-db294508947f","925a2ac5-e89d-4ac9-b194-0ab026bf1377","c144f328-b680-458c-8e8e-c4814969a87b"],"custom_css":[".grid {display: flex; flex-wrap: nowrap; white-space: nowrap; overflow-x: auto; overflow-x: scroll;}",".grid::-webkit-scrollbar {display: none;}",".grid__item {display: inline; flex: 0 0 28vw; float: none; position: relative;}","@media only screen and (max-width: 768px) {.grid__item {display: inline; flex: 0 0 90vw; float: none; position: relative; }}",".index-section {margin: 0;}","h2 {margin-top: 15px; color: #ed1b2d; font-weight: bold;}","span {letter-spacing: 0; color: #ffffff; background: transparent; font-weight: 900;}"],"settings":{"title":"Shop by Game","divider":false,"per_row":4,"enable_gutter":false}},"e96ca56c-27ac-41db-b96d-be67144ef9b9":{"type":"text-columns","blocks":{"template--20545212547377__e96ca56c-27ac-41db-b96d-be67144ef9b9-text_block-1":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/icon-geeky_c36061c3-b049-4616-b5a8-db2c227e8858.png","image_mask":"none","image_width":70,"title":"GEEKY","text":"<p>Located in sunny Southern California, we are life-long gamers who understand exactly what retro lovers want!<\/p>","button_label":"","button_link":""}},"9479b35e-177e-479c-b4be-5c31909dc6d6":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/icon-passionate.png","image_mask":"none","image_width":70,"title":"PASSIONATE","text":"<p>We belleve our aftection for all things retro gaming is seen in the unique designs and features of our products.<\/p>","button_label":"","button_link":""}},"398309cb-72ed-4597-8334-9cf3169bec22":{"type":"text_block","settings":{"enable_image":true,"image":"shopify:\/\/shop_images\/icon-rad.png","image_mask":"none","image_width":70,"title":"TOTALLY RAD","text":"<p>We are committed to becoming your go to source for all things Retro Gaming!<\/p>","button_label":"","button_link":""}}},"block_order":["template--20545212547377__e96ca56c-27ac-41db-b96d-be67144ef9b9-text_block-1","9479b35e-177e-479c-b4be-5c31909dc6d6","398309cb-72ed-4597-8334-9cf3169bec22"],"disabled":true,"custom_css":[".image-wrap {background: #ffffff;}","h2 {color: #ed1b2d;}"],"settings":{"title":"WHO IS MY ARCADE®","align_text":"center","divider":false}},"f0c9857d-aa6a-41bc-95ed-f93d4891bf0f":{"type":"promo-grid","blocks":{"76bf6890-db4d-49a2-8f02-214b5b5bdafe":{"type":"banner","settings":{"heading":"SHOP BY GAME","text":"","link":"","label":"","color_tint":"#000000","color_tint_opacity":0,"framed":false}},"0a63843c-d157-4554-be63-62f2d03eef00":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/collections-temp.jpg","link":"","width":"100"}}},"block_order":["76bf6890-db4d-49a2-8f02-214b5b5bdafe","0a63843c-d157-4554-be63-62f2d03eef00"],"disabled":true,"custom_css":[".h3 {margin-top: 15px; color: #ed1b2d; font-size: calc(var(--typeHeaderSize) * 0.85);}"],"settings":{"full_width":true,"gutter_size":0,"space_above":false,"space_below":false,"lazyload_images":true}},"9b92aceb-2544-42dc-8104-1f273b752d78":{"type":"slideshow","blocks":{"template--20545212547377__9b92aceb-2544-42dc-8104-1f273b752d78-image-1":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/collections-temp-1.jpg","image_mobile":"shopify:\/\/shop_images\/collections-temp-m.jpg","parallax_direction":"top","overlay_opacity":0}}},"block_order":["template--20545212547377__9b92aceb-2544-42dc-8104-1f273b752d78-image-1"],"disabled":true,"settings":{"section_height":"750px","mobile_height":"auto","parallax":false,"style":"bars","autoplay":true,"autoplay_speed":5,"lazyload_images":false}},"featured-collection":{"type":"featured-collection","disabled":true,"custom_css":["h2 {color: #ed1b2d;}"],"settings":{"title":"SHOP BY GAME","home_featured_products":"retro-gaming","per_row":5,"rows":1,"mobile_scrollable":true,"view_all":false,"divider":false}},"b4d3d5e9-ada0-4ca0-8459-7861f06d27e5":{"type":"promo-grid","blocks":{"7f8868e4-e928-47ed-ba28-825bb00dc12a":{"type":"banner","settings":{"heading":"SHOP BY HARDWARE","text":"","link":"","label":"","color_tint":"#000000","color_tint_opacity":0,"framed":false}},"template--20545212547377__b4d3d5e9-ada0-4ca0-8459-7861f06d27e5-advanced-1":{"type":"advanced","settings":{"subheading":"","heading":"Micro Player Pro","textarea":"","cta_text1":"SEE MORE >","cta_link1":"shopify:\/\/collections\/micro-player","cta_text2":"","cta_link2":"","image":"shopify:\/\/shop_images\/MICRO_Player.jpg","video_url":"","width":"33","height":800,"text_size":100,"text_align":"vertical-bottom horizontal-center","color_accent":"rgba(0,0,0,0)","boxed":false,"framed":false}},"8c7fd2d4-e8e5-4f39-a150-dd0177699ced":{"type":"advanced","settings":{"subheading":"","heading":"Nano Player Pro","textarea":"","cta_text1":"SEE MORE >","cta_link1":"shopify:\/\/collections\/nano-player","cta_text2":"","cta_link2":"","image":"shopify:\/\/shop_images\/NANO_Player.jpg","video_url":"","width":"33","height":800,"text_size":100,"text_align":"vertical-bottom horizontal-center","color_accent":"rgba(0,0,0,0)","boxed":false,"framed":false}},"ef01f450-4800-4f7c-9f1d-e326fc4b3b73":{"type":"advanced","settings":{"subheading":"","heading":"Pocket Player Pro","textarea":"","cta_text1":"SEE MORE >","cta_link1":"shopify:\/\/collections\/pocket-player","cta_text2":"","cta_link2":"","image":"shopify:\/\/shop_images\/POCKET_Player.jpg","video_url":"","width":"33","height":800,"text_size":100,"text_align":"vertical-bottom horizontal-center","color_accent":"rgba(0,0,0,0)","boxed":false,"framed":false}}},"block_order":["7f8868e4-e928-47ed-ba28-825bb00dc12a","template--20545212547377__b4d3d5e9-ada0-4ca0-8459-7861f06d27e5-advanced-1","8c7fd2d4-e8e5-4f39-a150-dd0177699ced","ef01f450-4800-4f7c-9f1d-e326fc4b3b73"],"custom_css":[".h3 {margin-top: 15px; font-weight: bold; color: #ed1b2d; font-size: calc(var(--typeHeaderSize) * 0.85);}",".rte--block {color: #ffffff; font-weight: 600; font-size: 20px;}",".type-banner__content {background: #f5f5f5;}",".btn {letter-spacing: 0; border: 0; padding: 0;}"],"settings":{"full_width":true,"gutter_size":0,"space_above":false,"space_below":false,"lazyload_images":true}},"26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1":{"type":"advanced-content","blocks":{"template--20545212547377__26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1-liquid-1":{"type":"liquid","settings":{"code":"<style>\n.containerscroll {display: flex;overflow-x: auto;}\n.containerscroll::-webkit-scrollbar {display: none;}\n.bannerscroll {width:420px;height:720px;}\n<\/style>\n\n<div class=\"containerscroll\">\n\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<\/div>","width":"100%","alignment":"center"}}},"block_order":["template--20545212547377__26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1-liquid-1"],"disabled":true,"custom_css":[],"settings":{"full_width":false,"space_around":true,"lazyload_images":true}},"71267b25-a14e-417f-8537-b342f1542042":{"type":"testimonials","blocks":{"template--20545212547377__71267b25-a14e-417f-8537-b342f1542042-testimonial-1":{"type":"testimonial","settings":{"icon":"quote","testimonial":"<p>“Forget past attempts to resurrect the Atari, this console brings modern styling to retro gaming.”<\/p>","author":"GIZMODO","author_info":""}},"18cfa480-3706-4cea-a4b3-3ac5cb3e8133":{"type":"testimonial","settings":{"icon":"quote","testimonial":"<p>“These are pretty neat looking handhelds, and are perfect collectible display pieces while also being actually playable.”<\/p>","author":"RETRO DODO","author_info":""}},"8d39a381-999e-42b6-b204-9c4161cbd71a":{"type":"testimonial","settings":{"icon":"quote","testimonial":"<p>“The build quality and attention to detail are second to none on this unit. Highly recommended!”<\/p>","author":"GBATEMP","author_info":""}},"58279ccb-7a7f-4df0-b8e4-f5d385d98215":{"type":"testimonial","settings":{"icon":"quote","testimonial":"<p>“Unlike previous attempts to create such a console, this one sticks to a very modern aesthetic design while retaining some of the nostalgic elements.\"<\/p>","author":"YANKO DESIGN","author_info":""}}},"block_order":["template--20545212547377__71267b25-a14e-417f-8537-b342f1542042-testimonial-1","18cfa480-3706-4cea-a4b3-3ac5cb3e8133","8d39a381-999e-42b6-b204-9c4161cbd71a","58279ccb-7a7f-4df0-b8e4-f5d385d98215"],"custom_css":["h2 {color: #ed1b2d; font-weight: bold;}",".index-section {margin: 0;}","cite {color: #ed1b2d;}",".testimonials-slider__text {background: none; box-shadow: none;}","p {font-size: 28px;}",".testimonials-section--with-divider {border: none;}"],"settings":{"title":"WHAT OTHERS ARE SAYING","align_text":"center","round_images":false,"color_background":"#ffffff","color_text":"#1c1d1d"}},"1695350325f76d86b2":{"type":"apps","blocks":{"d516c847-51fe-4574-b58f-72ce41be1268":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"title_color":"","alignment":"center","html_area":""}}},"block_order":["d516c847-51fe-4574-b58f-72ce41be1268"],"settings":{"full_width":true,"space_around":true}},"b21c6d06-9e29-402f-90d4-6e6b6acc3d43":{"type":"scrolling-text","disabled":true,"settings":{"text":"Follow us on Instagram @MyArcadeRetro","link":"","text_size":34,"text_spacing":true,"direction":"left","speed":300}}},"order":["slideshow","e78485fc-7612-4766-a96f-34800d6bb942","776fe282-8229-4a93-9f52-557875a135e7","e96ca56c-27ac-41db-b96d-be67144ef9b9","f0c9857d-aa6a-41bc-95ed-f93d4891bf0f","9b92aceb-2544-42dc-8104-1f273b752d78","featured-collection","b4d3d5e9-ada0-4ca0-8459-7861f06d27e5","26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1","71267b25-a14e-417f-8537-b342f1542042","1695350325f76d86b2","b21c6d06-9e29-402f-90d4-6e6b6acc3d43"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Available now",
+            "title": "Atari Gamestation Pro",
+            "title_size": 60,
+            "subheading": "Download Firmware Update v.1.30",
+            "link": "shopify:\/\/products\/atari-gamestation-pro",
+            "link_text": "Learn more",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#b30000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Website-header-01.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Website-header-01_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Atari Collection",
+            "title_size": 60,
+            "subheading": "Futuristic since forever",
+            "link": "shopify:\/\/collections\/atari-50",
+            "link_text": "Shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#b30000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Website-header-02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Website-header-02_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "d421d03e-59de-4349-8798-414cc772243c": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Super Street Fighter II",
+            "title_size": 60,
+            "subheading": "All your favorite characters!",
+            "link": "shopify:\/\/collections\/street-fighter",
+            "link_text": "Shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#b30000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Website-header-03.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Website-header-03_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "1f8402bf-57ed-4d9d-8ed4-d996aa70e05a": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "2023 My Arcade Collection",
+            "title_size": 60,
+            "subheading": "Choose from legendary titles",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#b30000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Website-header-04.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Website-header-04_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "0b4aca8e-8a56-4764-afd7-25a0ff00366d": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/CES_Banner.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd",
+        "d421d03e-59de-4349-8798-414cc772243c",
+        "1f8402bf-57ed-4d9d-8ed4-d996aa70e05a",
+        "0b4aca8e-8a56-4764-afd7-25a0ff00366d"
+      ],
+      "custom_css": [
+        "h2 {font-weight: 900;}"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "100vh",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": true,
+        "autoplay_speed": 10,
+        "lazyload_images": false
+      }
+    },
+    "e78485fc-7612-4766-a96f-34800d6bb942": {
+      "type": "featured-product",
+      "blocks": {
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5ecfa571-8427-434d-9775-42cab3f236c6": {
+          "type": "custom",
+          "settings": {
+            "code": "<p>Atari® is a pioneer in the video game industry, responsible for some of the most iconic games of all time, including PONG®, Breakout®, and Asteroids®. Atari was founded in 1972 and, with a rich history that spans over 50 years, is one of the oldest video game companies in the world. With its focus on innovative gameplay and cutting-edge technology, Atari has always been at the forefront of the gaming industry. The Gamestation Pro has over 200 games, including Atari 2600, Atari 5200, Atari 7800, Atari arcade and bonus games.<\/p>"
+          }
+        },
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-description-1": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-price-1",
+        "5ecfa571-8427-434d-9775-42cab3f236c6",
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-description-1",
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-variant_picker-1",
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1"
+      ],
+      "settings": {
+        "featured_product": "atari-gamestation-pro",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "776fe282-8229-4a93-9f52-557875a135e7": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "9210b1d6-67b0-4a24-a337-3078831fb0bb": {
+          "type": "collection",
+          "settings": {
+            "collection": "atari-gamestation-pro",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "atari-50",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "pac-man",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "a664e38c-63e3-4536-a8e3-f96a2812405e": {
+          "type": "collection",
+          "settings": {
+            "collection": "ms-pac-man",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "96b09774-6615-4e81-8df8-ba85d69df15a": {
+          "type": "collection",
+          "settings": {
+            "collection": "galaga",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "street-fighter",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "eb21a225-822c-41ef-a4dc-dc82fff31460": {
+          "type": "collection",
+          "settings": {
+            "collection": "street-fighter-2-champion-edition",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "mega-man",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "5a3540b4-cd8c-4062-a7c0-545a9e8daaef": {
+          "type": "collection",
+          "settings": {
+            "collection": "tetris-8bit",
+            "title": "Tetris 8-bit",
+            "focal_point": "center center"
+          }
+        },
+        "4a4eed81-5b8b-4bd5-8fa9-db294508947f": {
+          "type": "collection",
+          "settings": {
+            "collection": "tetris-16bit",
+            "title": "Tetris 16-bit",
+            "focal_point": "center center"
+          }
+        },
+        "925a2ac5-e89d-4ac9-b194-0ab026bf1377": {
+          "type": "collection",
+          "settings": {
+            "collection": "space-invaders",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "c144f328-b680-458c-8e8e-c4814969a87b": {
+          "type": "collection",
+          "settings": {
+            "collection": "data-east",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "9210b1d6-67b0-4a24-a337-3078831fb0bb",
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-2",
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-3",
+        "a664e38c-63e3-4536-a8e3-f96a2812405e",
+        "96b09774-6615-4e81-8df8-ba85d69df15a",
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-1",
+        "eb21a225-822c-41ef-a4dc-dc82fff31460",
+        "template--20545212547377__776fe282-8229-4a93-9f52-557875a135e7-collection-4",
+        "5a3540b4-cd8c-4062-a7c0-545a9e8daaef",
+        "4a4eed81-5b8b-4bd5-8fa9-db294508947f",
+        "925a2ac5-e89d-4ac9-b194-0ab026bf1377",
+        "c144f328-b680-458c-8e8e-c4814969a87b"
+      ],
+      "custom_css": [
+        ".grid {display: flex; flex-wrap: nowrap; white-space: nowrap; overflow-x: auto; overflow-x: scroll;}",
+        ".grid::-webkit-scrollbar {display: none;}",
+        ".grid__item {display: inline; flex: 0 0 28vw; float: none; position: relative;}",
+        "@media only screen and (max-width: 768px) {.grid__item {display: inline; flex: 0 0 90vw; float: none; position: relative; }}",
+        ".index-section {margin: 0;}",
+        "h2 {margin-top: 15px; color: #ed1b2d; font-weight: bold;}",
+        "span {letter-spacing: 0; color: #ffffff; background: transparent; font-weight: 900;}"
+      ],
+      "settings": {
+        "title": "Shop by Game",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": false
+      }
+    },
+    "e96ca56c-27ac-41db-b96d-be67144ef9b9": {
+      "type": "text-columns",
+      "blocks": {
+        "template--20545212547377__e96ca56c-27ac-41db-b96d-be67144ef9b9-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/icon-geeky_c36061c3-b049-4616-b5a8-db2c227e8858.png",
+            "image_mask": "none",
+            "image_width": 70,
+            "title": "GEEKY",
+            "text": "<p>Located in sunny Southern California, we are life-long gamers who understand exactly what retro lovers want!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "9479b35e-177e-479c-b4be-5c31909dc6d6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/icon-passionate.png",
+            "image_mask": "none",
+            "image_width": 70,
+            "title": "PASSIONATE",
+            "text": "<p>We belleve our aftection for all things retro gaming is seen in the unique designs and features of our products.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "398309cb-72ed-4597-8334-9cf3169bec22": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/icon-rad.png",
+            "image_mask": "none",
+            "image_width": 70,
+            "title": "TOTALLY RAD",
+            "text": "<p>We are committed to becoming your go to source for all things Retro Gaming!<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20545212547377__e96ca56c-27ac-41db-b96d-be67144ef9b9-text_block-1",
+        "9479b35e-177e-479c-b4be-5c31909dc6d6",
+        "398309cb-72ed-4597-8334-9cf3169bec22"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-wrap {background: #ffffff;}",
+        "h2 {color: #ed1b2d;}"
+      ],
+      "settings": {
+        "title": "WHO IS MY ARCADE®",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "f0c9857d-aa6a-41bc-95ed-f93d4891bf0f": {
+      "type": "promo-grid",
+      "blocks": {
+        "76bf6890-db4d-49a2-8f02-214b5b5bdafe": {
+          "type": "banner",
+          "settings": {
+            "heading": "SHOP BY GAME",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "framed": false
+          }
+        },
+        "0a63843c-d157-4554-be63-62f2d03eef00": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/collections-temp.jpg",
+            "link": "",
+            "width": "100"
+          }
+        }
+      },
+      "block_order": [
+        "76bf6890-db4d-49a2-8f02-214b5b5bdafe",
+        "0a63843c-d157-4554-be63-62f2d03eef00"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".h3 {margin-top: 15px; color: #ed1b2d; font-size: calc(var(--typeHeaderSize) * 0.85);}"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "9b92aceb-2544-42dc-8104-1f273b752d78": {
+      "type": "slideshow",
+      "blocks": {
+        "template--20545212547377__9b92aceb-2544-42dc-8104-1f273b752d78-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/collections-temp-1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/collections-temp-m.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--20545212547377__9b92aceb-2544-42dc-8104-1f273b752d78-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "h2 {color: #ed1b2d;}"
+      ],
+      "settings": {
+        "title": "SHOP BY GAME",
+        "home_featured_products": "retro-gaming",
+        "per_row": 5,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "b4d3d5e9-ada0-4ca0-8459-7861f06d27e5": {
+      "type": "promo-grid",
+      "blocks": {
+        "7f8868e4-e928-47ed-ba28-825bb00dc12a": {
+          "type": "banner",
+          "settings": {
+            "heading": "SHOP BY HARDWARE",
+            "text": "",
+            "link": "",
+            "label": "",
+            "color_tint": "#000000",
+            "color_tint_opacity": 0,
+            "framed": false
+          }
+        },
+        "template--20545212547377__b4d3d5e9-ada0-4ca0-8459-7861f06d27e5-advanced-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Micro Player Pro",
+            "textarea": "",
+            "cta_text1": "SEE MORE >",
+            "cta_link1": "shopify:\/\/collections\/micro-player",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/MICRO_Player.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 800,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "8c7fd2d4-e8e5-4f39-a150-dd0177699ced": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Nano Player Pro",
+            "textarea": "",
+            "cta_text1": "SEE MORE >",
+            "cta_link1": "shopify:\/\/collections\/nano-player",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/NANO_Player.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 800,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "ef01f450-4800-4f7c-9f1d-e326fc4b3b73": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "Pocket Player Pro",
+            "textarea": "",
+            "cta_text1": "SEE MORE >",
+            "cta_link1": "shopify:\/\/collections\/pocket-player",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/POCKET_Player.jpg",
+            "video_url": "",
+            "width": "33",
+            "height": 800,
+            "text_size": 100,
+            "text_align": "vertical-bottom horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "7f8868e4-e928-47ed-ba28-825bb00dc12a",
+        "template--20545212547377__b4d3d5e9-ada0-4ca0-8459-7861f06d27e5-advanced-1",
+        "8c7fd2d4-e8e5-4f39-a150-dd0177699ced",
+        "ef01f450-4800-4f7c-9f1d-e326fc4b3b73"
+      ],
+      "custom_css": [
+        ".h3 {margin-top: 15px; font-weight: bold; color: #ed1b2d; font-size: calc(var(--typeHeaderSize) * 0.85);}",
+        ".rte--block {color: #ffffff; font-weight: 600; font-size: 20px;}",
+        ".type-banner__content {background: #f5f5f5;}",
+        ".btn {letter-spacing: 0; border: 0; padding: 0;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 0,
+        "space_above": false,
+        "space_below": false,
+        "lazyload_images": true
+      }
+    },
+    "26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--20545212547377__26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<style>\n.containerscroll {display: flex;overflow-x: auto;}\n.containerscroll::-webkit-scrollbar {display: none;}\n.bannerscroll {width:420px;height:720px;}\n<\/style>\n\n<div class=\"containerscroll\">\n\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<div class=\"bannerscroll\"><img src=\"https:\/\/www.myarcadegaming.com\/cdn\/shop\/collections\/Super_Street_Fighter_II_New_Challengers.jpg?v=1694787908\" alt=\"Street Fighter\" width=\"420\" height=\"720\"><\/div>\n<\/div>",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--20545212547377__26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1-liquid-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "71267b25-a14e-417f-8537-b342f1542042": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20545212547377__71267b25-a14e-417f-8537-b342f1542042-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“Forget past attempts to resurrect the Atari, this console brings modern styling to retro gaming.”<\/p>",
+            "author": "GIZMODO",
+            "author_info": ""
+          }
+        },
+        "18cfa480-3706-4cea-a4b3-3ac5cb3e8133": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“These are pretty neat looking handhelds, and are perfect collectible display pieces while also being actually playable.”<\/p>",
+            "author": "RETRO DODO",
+            "author_info": ""
+          }
+        },
+        "8d39a381-999e-42b6-b204-9c4161cbd71a": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“The build quality and attention to detail are second to none on this unit. Highly recommended!”<\/p>",
+            "author": "GBATEMP",
+            "author_info": ""
+          }
+        },
+        "58279ccb-7a7f-4df0-b8e4-f5d385d98215": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "testimonial": "<p>“Unlike previous attempts to create such a console, this one sticks to a very modern aesthetic design while retaining some of the nostalgic elements.\"<\/p>",
+            "author": "YANKO DESIGN",
+            "author_info": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20545212547377__71267b25-a14e-417f-8537-b342f1542042-testimonial-1",
+        "18cfa480-3706-4cea-a4b3-3ac5cb3e8133",
+        "8d39a381-999e-42b6-b204-9c4161cbd71a",
+        "58279ccb-7a7f-4df0-b8e4-f5d385d98215"
+      ],
+      "custom_css": [
+        "h2 {color: #ed1b2d; font-weight: bold;}",
+        ".index-section {margin: 0;}",
+        "cite {color: #ed1b2d;}",
+        ".testimonials-slider__text {background: none; box-shadow: none;}",
+        "p {font-size: 28px;}",
+        ".testimonials-section--with-divider {border: none;}"
+      ],
+      "settings": {
+        "title": "WHAT OTHERS ARE SAYING",
+        "align_text": "center",
+        "round_images": false,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "1695350325f76d86b2": {
+      "type": "apps",
+      "blocks": {
+        "d516c847-51fe-4574-b58f-72ce41be1268": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "d516c847-51fe-4574-b58f-72ce41be1268"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
+    "b21c6d06-9e29-402f-90d4-6e6b6acc3d43": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "text": "Follow us on Instagram @MyArcadeRetro",
+        "link": "",
+        "text_size": 34,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 300
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "e78485fc-7612-4766-a96f-34800d6bb942",
+    "776fe282-8229-4a93-9f52-557875a135e7",
+    "e96ca56c-27ac-41db-b96d-be67144ef9b9",
+    "f0c9857d-aa6a-41bc-95ed-f93d4891bf0f",
+    "9b92aceb-2544-42dc-8104-1f273b752d78",
+    "featured-collection",
+    "b4d3d5e9-ada0-4ca0-8459-7861f06d27e5",
+    "26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1",
+    "71267b25-a14e-417f-8537-b342f1542042",
+    "1695350325f76d86b2",
+    "b21c6d06-9e29-402f-90d4-6e6b6acc3d43"
+  ]
+}
