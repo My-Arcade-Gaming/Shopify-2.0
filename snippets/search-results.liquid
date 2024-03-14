@@ -3,7 +3,6 @@
   assign columnCount = resources.queries.size | plus: resources.pages.size | plus: resources.articles.size | plus: resources.collections.size
   assign totalCount = resources.queries.size | plus: resources.pages.size | plus: resources.articles.size | plus: resources.collections.size | plus: resources.products.size
 %}
-
 {%- if predictive_search.performed -%}
   <div class="predictive-search-results {% if totalCount == 0 %}predictive-search-results--none{% endif %}" id="predictive-search-results">
     {% if totalCount > 0 %}
