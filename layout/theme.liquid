@@ -21,7 +21,36 @@
       {% if request.path == '/challenge' %} {% assign restrict_page = false %} {% endif %}
       {% if request.path == '/password' %} {% assign restrict_page = false %} {% endif %}
       {% if request.path == '/account/recover' %} {% assign restrict_page = false %} {% endif %}
-
+      {% liquid 
+        assign is_allowed = true
+        assign required_tag = shop.metafields.adv_reg.lockRequireTagged 
+        if required_tag
+            assign is_allowed = false
+            if customer
+                for tag in customer.tags
+                    if tag == required_tag
+                        assign is_allowed = true
+                    endif
+                endfor
+            endif
+        endif
+        if is_allowed 
+            assign require_not_tag = shop.metafields.adv_reg.lockRequireNotTagged 
+             if require_not_tag
+                if customer
+                    for tag in customer.tags
+                        if tag == require_not_tag
+                            assign is_allowed = false
+                        endif
+                    endfor
+                endif
+            endif
+        endif
+        if customer == nil or is_allowed == false
+          assign customer_fail = true
+        endif
+        %} 
+        
       {% if request.path contains '/tools/emails' %} {% assign restrict_page = false %} {% endif %}
 
       {% if request.path contains '/account/reset' %} {% assign restrict_page = false %} {% endif %}
@@ -29,9 +58,10 @@
 
     {% if request.path contains '/reset-password' %} {% assign restrict_page = false %} {% endif %}
      {% if request.path contains '/customer-account-password-reset' %} {% assign restrict_page = false %} {% endif %}
-
-      {% if shop.metafields.adv_reg.lockShop == 'on' and  customer == nil and restrict_page and request.design_mode == false  %}
-
+    
+        
+      {% if shop.metafields.adv_reg.lockShop == 'on' and restrict_page and request.design_mode == false and  customer_fail %}
+        <!-- lock on -->
 
             {% if shop.metafields.adv_reg.noFraming == 'on' %}
                 {% include 'advanced_registration_locked_page' %}
@@ -44,12 +74,14 @@
 {% if page_description %}
   <meta name="description" content="{{ page_description | escape }}">
 {% endif %}
+<script>
+const returnUrl = encodeURIComponent(window.location.pathname + window.location.search);
 {% if shop.metafields.adv_reg.showRegistrationPageFirst == 'on' %}
-<script>window.location='/account/register?checkout_url='+window.location.pathname</script>
+window.location = '/account/register?checkout_url='+returnUrl;
 {% else %}
-<script>window.location='/account/login?checkout_url='+window.location.pathname</script>
+window.location = '/account/login?checkout_url='+returnUrl;
 {% endif %}
-    <link rel="preload" href="https://use.typekit.net/tpt6pkv.css" as="style">
+</script>
 
 </head> 
             {% endif %}
@@ -80,7 +112,7 @@
   {%- endif -%}
 
   {%- render 'social-meta-tags' -%}
-  <link rel="preload" href="https://use.typekit.net/tpt6pkv.css" as="style">
+
   {%- render 'font-face' -%}
   {{ 'theme.css' | asset_url | stylesheet_tag: preload: true }}
   {%- render 'css-variables' -%}
@@ -150,7 +182,6 @@
   {% if request.design_mode %}
     <script src="https://api.archetypethemes.co/design-mode.js" defer="defer"></script>
   {% endif %}
-  {% render "scripts" %}
 </head>
 
 <body class="template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}{% if request.path == '/challenge' %} template-challange{% endif %}" data-center-text="{{ settings.type_body_align_text }}" data-button_style="{{ settings.button_style }}" data-type_header_capitalize="{{ settings.type_header_capitalize }}" data-type_headers_align_text="{{ settings.type_headers_align_text }}" data-type_product_capitalize="{{ settings.type_product_capitalize }}" data-swatch_style="{{ settings.swatch_style }}" {% if settings.disable_animations %}data-disable-animations="true"{% endif %}>
@@ -162,17 +193,22 @@
 
     {%- sections 'header-group' -%}
     {%- sections 'popup-group' -%}
+
       <main class="main-content" id="MainContent">
-       {% capture layout %} {{ content_for_layout }} {% endcapture %} {{ layout | replace: "<iframe","<iframe loading='lazy' " }}
+        {{ content_for_layout }}
       </main>
+
     {%- sections 'footer-group' -%}
+
     </div>
   </div>
+
   {%- liquid
     render 'video-modal'
     render 'photoswipe-template'
     render 'tool-tip'
   -%}
+
   {% comment %} Image markup used when building product grid item via JS {% endcomment %}
   <template id="naturalImageMarkup">
     <div class="image-wrap" style="height: 0;">
@@ -187,8 +223,7 @@
         <img class="image-element" width height src srcset loading="lazy" alt>
       </image-element>
     </div>
-  </template> 
-  {{ "//cdn.shopify.com/s/files/1/0633/1672/1913/t/1/assets/splide.min.js" | script_tag}} 
+  </template>
 </body>
 </html>
 {% endif %}
