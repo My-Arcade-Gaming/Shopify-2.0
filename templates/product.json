@@ -3,6 +3,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "klaviyo_reviews_average_rating_DFceVV": {
+          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/average-rating\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -78,6 +84,7 @@
         }
       },
       "block_order": [
+        "klaviyo_reviews_average_rating_DFceVV",
         "price",
         "separator",
         "variant_picker",
@@ -150,6 +157,15 @@
             "author_info": "Los Angeles, CA"
           }
         },
+        "testimonial_GbnfFr": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
         "testimonials-2": {
           "type": "testimonial",
           "settings": {
@@ -163,6 +179,7 @@
       "block_order": [
         "testimonials-0",
         "testimonials-1",
+        "testimonial_GbnfFr",
         "testimonials-2"
       ],
       "disabled": true,
