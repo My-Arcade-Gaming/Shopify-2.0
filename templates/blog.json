@@ -1,1 +1,128 @@
-{"sections":{"c9dc52e8-7ccf-41a4-b92c-14821d6eaac5":{"type":"rich-text","blocks":{"template--20545211990321__c9dc52e8-7ccf-41a4-b92c-14821d6eaac5-text-1":{"type":"text","settings":{"enlarge_text":true,"text":"<p><strong>Follow us on Instagram <\/strong><a href=\"https:\/\/www.instagram.com\/myarcaderetro\/\" title=\"https:\/\/www.instagram.com\/myarcaderetro\/\"><strong>@MyArcadeRetro<\/strong><\/a><\/p>"}}},"block_order":["template--20545211990321__c9dc52e8-7ccf-41a4-b92c-14821d6eaac5-text-1"],"settings":{"align_text":"center","narrow_column":true,"divider":false}},"16953503711f23f5bd":{"type":"apps","blocks":{"7243fbdd-c0ac-4cfb-98d9-db4a6e464ed0":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"heading_size":20,"feed_width":100,"html_area":""}}},"block_order":["7243fbdd-c0ac-4cfb-98d9-db4a6e464ed0"],"settings":{"full_width":false,"space_around":true}},"main":{"type":"blog-template","settings":{"blog_show_tag_filter":false,"blog_show_rss":false,"blog_show_tags":false,"blog_show_date":true,"blog_show_comments":false,"blog_show_author":false,"blog_show_excerpt":false,"blog_image_size":"wide"}},"featured-collections":{"type":"featured-collections","blocks":{"collection1":{"type":"collection","settings":{"collection":"","title":"","focal_point":"center center"}},"collection2":{"type":"collection","settings":{"collection":"","title":"","focal_point":"center center"}},"collection3":{"type":"collection","settings":{"collection":"","title":"","focal_point":"center center"}},"collection4":{"type":"collection","settings":{"collection":"","title":"","focal_point":"center center"}},"617e23c1-3bd5-4aab-aa0f-fd293c7b9f27":{"type":"collection","settings":{"collection":"","title":"","focal_point":"center center"}}},"block_order":["collection1","collection2","collection3","collection4","617e23c1-3bd5-4aab-aa0f-fd293c7b9f27"],"disabled":true,"settings":{"title":"You may also like","divider":false,"per_row":4,"enable_gutter":true}}},"order":["c9dc52e8-7ccf-41a4-b92c-14821d6eaac5","16953503711f23f5bd","main","featured-collections"]}
+{
+  "sections": {
+    "c9dc52e8-7ccf-41a4-b92c-14821d6eaac5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20545211990321__c9dc52e8-7ccf-41a4-b92c-14821d6eaac5-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Follow us on Instagram <\/strong><a href=\"https:\/\/www.instagram.com\/myarcaderetro\/\" title=\"https:\/\/www.instagram.com\/myarcaderetro\/\"><strong>@MyArcadeRetro<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20545211990321__c9dc52e8-7ccf-41a4-b92c-14821d6eaac5-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16953503711f23f5bd": {
+      "type": "apps",
+      "blocks": {
+        "7243fbdd-c0ac-4cfb-98d9-db4a6e464ed0": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "7243fbdd-c0ac-4cfb-98d9-db4a6e464ed0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "main": {
+      "type": "blog-template",
+      "settings": {
+        "blog_show_tag_filter": false,
+        "blog_show_rss": false,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "blog_show_excerpt": false,
+        "blog_image_size": "wide"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection3": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "collection4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "617e23c1-3bd5-4aab-aa0f-fd293c7b9f27": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "collection1",
+        "collection2",
+        "collection3",
+        "collection4",
+        "617e23c1-3bd5-4aab-aa0f-fd293c7b9f27"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    }
+  },
+  "order": [
+    "c9dc52e8-7ccf-41a4-b92c-14821d6eaac5",
+    "16953503711f23f5bd",
+    "main",
+    "featured-collections"
+  ]
+}
