@@ -5,6 +5,7 @@
       "blocks": {
         "0b4aca8e-8a56-4764-afd7-25a0ff00366d": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "June 7-9, 2024",
             "title": "Classic Tetris World Championship (CTWC)",
