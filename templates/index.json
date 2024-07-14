@@ -165,16 +165,6 @@
             "surface_pickup_enable": true,
             "show_gift_card_recipient": false
           }
-        },
-        "complementary_products_7RTeY7": {
-          "type": "complementary_products",
-          "settings": {
-            "product_complementary_heading": "Pairs well with",
-            "complementary_count": 4,
-            "per_slide": 2,
-            "control_type": "dots",
-            "image_style": "default"
-          }
         }
       },
       "block_order": [
@@ -182,8 +172,7 @@
         "5ecfa571-8427-434d-9775-42cab3f236c6",
         "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-description-1",
         "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-variant_picker-1",
-        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1",
-        "complementary_products_7RTeY7"
+        "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1"
       ],
       "settings": {
         "featured_product": "atari-gamestation-pro",
