@@ -106,8 +106,7 @@
         "share"
       ],
       "custom_css": [
-        ".h2 {margin-top: 15px; color: #ed1b2d; font-size: calc(var(--typeHeaderSize) * 0.55);}",
-        ".product-block {margin-top: 30px;}"
+        ".h2 {margin-top: 15px; color: #ed1b2d; font-size: calc(var(--typeHeaderSize) * 0.55);}"
       ],
       "settings": {
         "sku_enable": false,
