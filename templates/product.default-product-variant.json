@@ -29,16 +29,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "variant_labels": true,
-            "picker_type": "button",
-            "product_dynamic_variants_enable": true,
-            "color_swatches": false
-          }
-        },
         "sales_point": {
           "type": "sales_point",
           "disabled": true,
@@ -78,6 +68,15 @@
             "phone": false
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -96,12 +95,12 @@
         "klaviyo_reviews_average_rating_DFceVV",
         "price",
         "separator",
-        "variant_picker",
         "sales_point",
         "inventory_status",
         "description",
         "tab",
         "contact",
+        "variant_picker",
         "buy_buttons",
         "share"
       ],
