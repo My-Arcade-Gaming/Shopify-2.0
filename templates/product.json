@@ -13,7 +13,7 @@
       "type": "main-product",
       "blocks": {
         "klaviyo_reviews_average_rating_DFceVV": {
-          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/average-rating\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "type": "shopify://apps/klaviyo-reviews/blocks/average-rating/db20e365-d984-4ac4-9655-e1588d951ca9",
           "settings": {
             "product": "{{product}}"
           }
@@ -66,7 +66,7 @@
           "disabled": true,
           "settings": {
             "title": "Shipping information",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
             "page": ""
           }
         },
@@ -134,7 +134,7 @@
       "settings": {
         "subtitle": "Impressive",
         "title": "About your brand",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
         "button_label": "",
         "button_link": "",
         "layout": "left",
@@ -152,7 +152,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -161,7 +161,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -170,7 +170,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -179,7 +179,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
             "author": "Author's name",
             "author_info": "Los Angeles, CA"
           }
@@ -208,7 +208,7 @@
           "settings": {
             "icon": "gears",
             "title": "Screen Size",
-            "text": "<p>{{ product.metafields.custom.screen_size.value }}<\/p>"
+            "text": "<p>{{ product.metafields.custom.screen_size.value }}</p>"
           }
         },
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2": {
@@ -216,7 +216,7 @@
           "settings": {
             "icon": "chat",
             "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
           }
         },
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3": {
@@ -224,7 +224,7 @@
           "settings": {
             "icon": "chat",
             "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
           }
         }
       },
@@ -248,8 +248,8 @@
       "type": "product-recommendations",
       "settings": {
         "product_recommendations_heading": "You may also like",
-        "related_count": 6,
-        "products_per_row": 3
+        "related_count": 4,
+        "products_per_row": 4
       }
     },
     "recently-viewed": {
@@ -267,7 +267,7 @@
       "type": "apps",
       "blocks": {
         "klaviyo_reviews_product_reviews_4E8gYQ": {
-          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/product-reviews\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
           "settings": {
           }
         }
