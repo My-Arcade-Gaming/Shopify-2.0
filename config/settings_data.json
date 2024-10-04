@@ -71,11 +71,11 @@
     "cart_type": "drawer",
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": true,
-    "cart_terms_conditions_page": "shopify:\/\/pages\/terms-conditions",
-    "social_facebook_link": "https:\/\/www.facebook.com\/MyArcadeRetro\/",
-    "social_twitter_link": "https:\/\/twitter.com\/MyArcadeRetro",
-    "social_instagram_link": "https:\/\/www.instagram.com\/myarcaderetro\/?hl=en",
-    "social_youtube_link": "https:\/\/www.youtube.com\/@MyArcaderetro?hl=en",
+    "cart_terms_conditions_page": "shopify://pages/terms-conditions",
+    "social_facebook_link": "https://www.facebook.com/MyArcadeRetro/",
+    "social_twitter_link": "https://twitter.com/MyArcadeRetro",
+    "social_instagram_link": "https://www.instagram.com/myarcaderetro/?hl=en",
+    "social_youtube_link": "https://www.youtube.com/@MyArcaderetro?hl=en",
     "search_enable": true,
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
@@ -179,24 +179,24 @@
     ],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
+        "settings": {
+        }
+      },
+      "5784066569132941777": {
+        "type": "shopify://apps/s-store-locator/blocks/embed-app/e7003487-cc51-4321-9488-2c47c07a5b17",
+        "disabled": true,
         "settings": {
         }
       },
       "13182238052301688732": {
-        "type": "shopify:\/\/apps\/glood-product-recommendations\/blocks\/app-embed\/6e79d991-1504-45bb-88e3-1fb55a4f26cd",
-        "disabled": false,
+        "type": "shopify://apps/glood-product-recommendations/blocks/app-embed/6e79d991-1504-45bb-88e3-1fb55a4f26cd",
+        "disabled": true,
         "settings": {
           "disable-rk-styles": false,
           "add-glide-init-timeouts": false,
           "enable-design-mode-preview": false
-        }
-      },
-      "5784066569132941777": {
-        "type": "shopify:\/\/apps\/s-store-locator\/blocks\/embed-app\/e7003487-cc51-4321-9488-2c47c07a5b17",
-        "disabled": true,
-        "settings": {
         }
       }
     }
@@ -396,7 +396,7 @@
               "settings": {
                 "show_footer_title": true,
                 "title": "Sign up and save",
-                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
                 "container_width": 30
               }
             },
@@ -429,7 +429,7 @@
             "popup_seconds": 5,
             "popup_days": 30,
             "popup_title": "Sign up and save",
-            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.</p>",
             "popup_image": "",
             "enable_newsletter": true,
             "button_label": "Optional button",
@@ -453,7 +453,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -464,7 +464,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
@@ -475,7 +475,7 @@
                 "enable_image": true,
                 "image": "",
                 "title": "Site-wide promotion",
-                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
                 "button_label": "Optional button",
                 "button_link": ""
               }
