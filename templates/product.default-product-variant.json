@@ -247,14 +247,14 @@
       "type": "product-recommendations",
       "settings": {
         "product_recommendations_heading": "You may also like",
-        "related_count": 6,
-        "products_per_row": 3
+        "related_count": 4,
+        "products_per_row": 2
       }
     },
     "recently-viewed": {
       "type": "recently-viewed",
       "settings": {
-        "recent_count": 5
+        "recent_count": 4
       }
     },
     "collection-return": {
