@@ -248,7 +248,7 @@
       "settings": {
         "product_recommendations_heading": "You may also like",
         "related_count": 4,
-        "products_per_row": 2
+        "products_per_row": 4
       }
     },
     "recently-viewed": {
