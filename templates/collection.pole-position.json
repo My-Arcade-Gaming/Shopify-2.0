@@ -241,8 +241,8 @@
         "text": "<p>Having pedal-looking<br/>buttons on the mini retro gaming cab adds a touch of authenticity, giving<br/>players the sensation of a real racing experience. These buttons enhance the<br/>“pedal to the metal” feeling, making each game session more immersive and exciting. </p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
-        "layout": "left",
+        "image": "shopify://shop_images/Pole-Position-Feature-02-Wheel-D.png",
+        "layout": "right",
         "height": 450,
         "framed": false,
         "parallax": false,
@@ -361,7 +361,7 @@
         "image_7ndQyB": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
+            "top_subheading": "Take everywhere with you",
             "title": "",
             "title_size": 80,
             "subheading": "",
@@ -370,7 +370,7 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify://shop_images/Module-07-Optional_Slideshow-03.2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
@@ -379,7 +379,7 @@
         "image_ET4iem": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
+            "top_subheading": "Take everywhere with you",
             "title": "",
             "title_size": 80,
             "subheading": "",
@@ -388,7 +388,7 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify://shop_images/Module-07-Optional_Slideshow-01.2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
@@ -397,7 +397,7 @@
         "image_TrxxrD": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
+            "top_subheading": "Take everywhere with you",
             "title": "",
             "title_size": 80,
             "subheading": "",
@@ -406,7 +406,7 @@
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "text_align": "vertical-bottom horizontal-left",
             "image": "shopify://shop_images/Module-07-Optional_Slideshow-02.2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
