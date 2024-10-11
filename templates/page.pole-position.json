@@ -146,7 +146,7 @@
     "background_image_text_P9nHYT": {
       "type": "background-image-text",
       "custom_css": [
-        "rte background-media-text__subtext {color: blue;}"
+        "{color: red;}"
       ],
       "settings": {
         "subtitle": "Impressive",
