@@ -45,11 +45,6 @@
         "lazyload_images": true
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "rich_text_3JgYWh": {
       "type": "rich-text",
       "blocks": {
@@ -76,11 +71,124 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "featured_product_6WKQaK": {
+      "type": "featured-product",
+      "blocks": {
+        "price_6CdkRp": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description_F67xAH": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "variant_picker_KKFmjE": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons_Ekzk4M": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "price_6CdkRp",
+        "description_F67xAH",
+        "variant_picker_KKFmjE",
+        "buy_buttons_Ekzk4M"
+      ],
+      "settings": {
+        "featured_product": "pole-position-racing-player",
+        "divider": false,
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "background_video_text_yE9erR": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
+    },
+    "slideshow_knFP9b": {
+      "type": "slideshow",
+      "blocks": {
+        "image_C8AYmi": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "RACING WHEEL ",
+            "title_size": 40,
+            "subheading": "Having a miniature steering wheel on the Pole Position miniretro gaming cab is incredibly cool, adding an authentic and nostalgic touch tothe classic racing experience. It perfectly captures the thrill of the arcade,making each race feel like a true adventure. ",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D_75b71330-ac03-4ffc-9519-faa16c451ef2.png",
+            "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_C8AYmi"
+      ],
+      "custom_css": [
+        "p {width: 100%; max-width: 300px; margin: 0 auto; }"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
     "slideshow_GRBih8",
     "rich_text_3JgYWh",
-    "main"
+    "featured_product_6WKQaK",
+    "main",
+    "background_video_text_yE9erR",
+    "slideshow_knFP9b"
   ]
 }
