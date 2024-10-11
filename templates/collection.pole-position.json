@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "4f8104d6-b8aa-4c81-9690-31a34b2c4beb": {
@@ -233,7 +233,7 @@
     "background_image_text_cj7cVR": {
       "type": "background-image-text",
       "custom_css": [
-
+        "p {color: white;}"
       ],
       "settings": {
         "subtitle": "Feature",
