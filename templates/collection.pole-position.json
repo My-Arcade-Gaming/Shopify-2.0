@@ -393,6 +393,7 @@
     },
     "recently-viewed": {
       "type": "recently-viewed",
+      "disabled": true,
       "custom_css": [
         ".index-section {margin: 0; background-color: #000; background-image: radial-gradient( circle 50vh at 50% 90%, #61686e, #51575d, #070c10 ); background-size: 100% 100%; background-repeat: no-repeat;}",
         "h2 {padding-top: 90px; color: #ed1b2d;}",
@@ -469,7 +470,7 @@
         "image_TrxxrD"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": true,
         "style": "dots",
