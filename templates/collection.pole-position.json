@@ -404,6 +404,58 @@
       "settings": {
         "recent_count": 3
       }
+    },
+    "slideshow_7BqX3Q": {
+      "type": "slideshow",
+      "blocks": {
+        "image_7ndQyB": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ET4iem": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Two line\ntitle slide.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_7ndQyB",
+        "image_ET4iem"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -417,6 +469,7 @@
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31",
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
-    "recently-viewed"
+    "recently-viewed",
+    "slideshow_7BqX3Q"
   ]
 }
