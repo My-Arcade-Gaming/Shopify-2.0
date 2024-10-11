@@ -9,13 +9,78 @@
  */
 {
   "sections": {
+    "slideshow_GRBih8": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jA6Lcj": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Pole-Position-Header-D.png",
+            "image_mobile": "shopify://shop_images/Pole-Position-Header-M.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_jA6Lcj"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
       }
+    },
+    "rich_text_3JgYWh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YLen7d": {
+          "type": "heading",
+          "settings": {
+            "title": "POLE POSITION Racing Player"
+          }
+        },
+        "text_pfLDXD": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Experience the thrill of arcade racing anytime,<br/>anywhere with the POLE POSITION Racing Player, featuring officially licensed<br/>titles and immersive, realistic controls. Its vibrant high-resolution display<br/>and nostalgic design capture the essence of the original arcade, while dual<br/>power options ensure endless fun on the go. Compact, durable, and designed for<br/>extended play, it’s the perfect companion for racing enthusiasts and collectors<br/>alike.</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YLen7d",
+        "text_pfLDXD"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
+    "slideshow_GRBih8",
+    "rich_text_3JgYWh",
     "main"
   ]
 }
