@@ -470,7 +470,7 @@
         "image_TrxxrD"
       ],
       "settings": {
-        "section_height": "natural",
+        "section_height": "100vh",
         "mobile_height": "auto",
         "parallax": true,
         "style": "dots",
