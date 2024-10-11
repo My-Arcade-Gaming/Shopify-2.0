@@ -91,7 +91,7 @@
             "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
             "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
             "parallax_direction": "top",
-            "overlay_opacity": 0
+            "overlay_opacity": 26
           }
         }
       },
@@ -237,7 +237,7 @@
       ],
       "settings": {
         "subtitle": "Feature",
-        "title": "RacingWheel",
+        "title": "Racing Wheel",
         "text": "<p>Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.</p>",
         "button_label": "",
         "button_link": "",
