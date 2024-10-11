@@ -17,7 +17,7 @@
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
@@ -26,7 +26,7 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Pole-Position-Header-D.png",
-            "image_mobile": "shopify://shop_images/Tetris_8_Bit_Collection_Hero_-_Mobile.jpg",
+            "image_mobile": "shopify://shop_images/Pole-Position-Header-M.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -79,88 +79,27 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
+            "title": "Racing Wheel",
+            "title_size": 40,
+            "subheading": "Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.",
             "link": "shopify://products/tetris-micro-player-pro",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tetris_Gamer_V_-_Desktop_bf66dd43-dea1-4481-ad5a-ea022981a4d8.jpg",
-            "image_mobile": "shopify://shop_images/Tetris_Gamer_v_-_Mobile_9bd6e3ec-31de-4c48-80f9-1e160f207fef.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "f0794ed3-5ec8-486a-8af6-09d76ca76c75": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "shopify://products/tetris-pocket-player-pro",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tetris_Go_Gamer_-_Desktop_9b38e9bb-0792-423b-b32b-77e1b36c7bd6.jpg",
-            "image_mobile": "shopify://shop_images/Tetris_Go_Gamer_-_Mobile_6d81cf32-a29c-4609-a4f0-3ae8f3311d2b.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "9766bc9e-3f56-459f-95a1-12cf8559e2ae": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tetris_Micro_Player_Pro_-_Desktop_3d8c6bdc-10f7-4015-951f-44089c8ff11b.jpg",
-            "image_mobile": "shopify://shop_images/Tetris_Micro_Player_Pro_-_Mobile_e7107329-8ef8-4551-bf17-0f8861d9d691.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "97065964-81df-4aed-a541-d019ca885168": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Tetris_Pocket_Player_Pro_-_Desktop_a98814be-dbd8-408f-8596-fd2ea526571b.jpg",
-            "image_mobile": "shopify://shop_images/Tetris_Pocket_Player_Pro_-_Mobile_07abf7ed-2055-460d-bcdb-a03572ff9471.jpg",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
+            "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "61531213-3130-448d-a247-199cf43540bc",
-        "f0794ed3-5ec8-486a-8af6-09d76ca76c75",
-        "9766bc9e-3f56-459f-95a1-12cf8559e2ae",
-        "97065964-81df-4aed-a541-d019ca885168"
+        "61531213-3130-448d-a247-199cf43540bc"
       ],
-      "disabled": true,
       "settings": {
-        "section_height": "100vh",
+        "section_height": "550px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "dots",
@@ -293,6 +232,9 @@
     },
     "background_image_text_cj7cVR": {
       "type": "background-image-text",
+      "custom_css": [
+
+      ],
       "settings": {
         "subtitle": "Feature",
         "title": "RacingWheel",
@@ -303,9 +245,9 @@
         "layout": "left",
         "height": 550,
         "framed": false,
-        "parallax": true,
+        "parallax": false,
         "parallax_direction": "top",
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3": {
