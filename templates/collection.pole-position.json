@@ -421,6 +421,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Module-07-Optional_Slideshow-03.2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -429,11 +430,11 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Two line\ntitle slide.",
+            "title": "",
             "title_size": 80,
-            "subheading": "And big, beautiful imagery",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
@@ -448,10 +449,10 @@
         "image_ET4iem"
       ],
       "settings": {
-        "section_height": "650px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": true,
-        "style": "bars",
+        "style": "dots",
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
