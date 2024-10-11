@@ -470,9 +470,9 @@
         "image_TrxxrD"
       ],
       "settings": {
-        "section_height": "100vh",
+        "section_height": "550px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "dots",
         "autoplay": true,
         "autoplay_speed": 5,
