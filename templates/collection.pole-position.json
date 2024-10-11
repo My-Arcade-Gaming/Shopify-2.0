@@ -207,22 +207,6 @@
         "enable_sort": true
       }
     },
-    "hero_video_n3q3TN": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8": {
       "type": "featured-product",
       "blocks": {
@@ -291,6 +275,22 @@
         "product_video_style": "muted"
       }
     },
+    "hero_video_n3q3TN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3": {
       "type": "testimonials",
       "blocks": {
@@ -298,8 +298,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
+            "testimonial": "<p>Absolutely nails the retro vibe! The miniature steering wheel and pedal-like buttons make the experience feel just like the original arcade game I remember.</p>",
+            "author": "Alfred B.",
             "author_info": "Los Angeles, CA"
           }
         },
@@ -307,19 +307,18 @@
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Shipped faster than expected to my place. I freaking love this, haven’t had any issues!</p>",
-            "image": "shopify://shop_images/jeremy-s.png",
-            "author": "Jeremy S",
-            "author_info": "Los Angeles, CA"
+            "testimonial": "<p>I've taken this little racer everywhere—from flights to camping trips—and it’s been a hit every time. The compact size makes it easy to travel with, and the dual power options are super convenient.</p>",
+            "author": "Jeremy S.",
+            "author_info": "West Haven, CT"
           }
         },
         "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb": {
           "type": "testimonial",
           "settings": {
             "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "testimonial": "<p>The attention to detail on the POLE POSITION Racing Player is impressive. From the artwork to the realistic steering wheel controls, this device feels like a true arcade experience in your hand.</p>",
+            "author": "John R.",
+            "author_info": "Waterloo, IA"
           }
         }
       },
@@ -332,7 +331,7 @@
         ".testimonial-stars {color: #ed1b2d;}",
         "cite {color: #ed1b2d;}",
         ".testimonials-slider__text {background: none; box-shadow: none;}",
-        "p {font-size: 28px;}",
+        "p {font-size: 20 px;}",
         ".testimonials-section--with-divider {border: 0;}"
       ],
       "settings": {
@@ -421,6 +420,7 @@
         "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-2",
         "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-3"
       ],
+      "disabled": true,
       "custom_css": [
         "h5 {letter-spacing: 0; font-size: calc(var(--typeHeaderSize) * 0.35);}"
       ],
@@ -478,6 +478,22 @@
       "settings": {
         "recent_count": 3
       }
+    },
+    "background_image_text_cj7cVR": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+        "button_label": "",
+        "button_link": "",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -492,6 +508,7 @@
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31",
     "837b9d13-fe98-430a-adb7-55589c893d4d",
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
-    "recently-viewed"
+    "recently-viewed",
+    "background_image_text_cj7cVR"
   ]
 }
