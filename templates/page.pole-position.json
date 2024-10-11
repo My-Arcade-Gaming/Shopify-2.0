@@ -170,7 +170,7 @@
         "image_C8AYmi"
       ],
       "custom_css": [
-        ".hero__text-content {color: blue; max-width: 80%;margin: auto}"
+        ".hero__text-content {width: 100%; max-width: 300px; margin: 0 auto;}"
       ],
       "settings": {
         "section_height": "450px",
