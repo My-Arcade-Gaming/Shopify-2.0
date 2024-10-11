@@ -291,6 +291,23 @@
         "mobile_height": "auto"
       }
     },
+    "background_image_text_cj7cVR": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Feature",
+        "title": "RacingWheel",
+        "text": "<p>Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.</p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
+        "layout": "left",
+        "height": 550,
+        "framed": false,
+        "parallax": true,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3": {
       "type": "testimonials",
       "blocks": {
@@ -340,23 +357,6 @@
         "round_images": true,
         "color_background": "#ffffff",
         "color_text": "#1c1d1d"
-      }
-    },
-    "6aad7788-ddd9-464a-91e9-aa982593f7ac": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify://shop_images/MyArcade-Tetris-Pocket_a750eced-e876-470b-b4ea-7a95a14d8b69.jpg",
-        "layout": "left",
-        "height": 650,
-        "framed": false,
-        "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": true
       }
     },
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31": {
@@ -430,25 +430,9 @@
         "divider": false
       }
     },
-    "837b9d13-fe98-430a-adb7-55589c893d4d": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify://shop_images/MyArcade-Tetris-GoGamer_a89224a9-ffef-4dda-a5e3-a415947e8e93.jpg",
-        "layout": "left",
-        "height": 650,
-        "framed": false,
-        "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": true
-      }
-    },
     "71e875c2-83aa-4e6d-87a0-486101917cd1": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".index-section {margin: 0; background-color: #000; background-image: radial-gradient( circle 50vh at 50% 90%, #61686e, #51575d, #070c10 ); background-size: 100% 100%; background-repeat: no-repeat;}",
         "h2 {color: #ed1b2d;}",
@@ -478,22 +462,6 @@
       "settings": {
         "recent_count": 3
       }
-    },
-    "background_image_text_cj7cVR": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-        "button_label": "",
-        "button_link": "",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
-        "parallax": true,
-        "parallax_direction": "top",
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -503,12 +471,10 @@
     "main-collection",
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
     "hero_video_n3q3TN",
+    "background_image_text_cj7cVR",
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
-    "6aad7788-ddd9-464a-91e9-aa982593f7ac",
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31",
-    "837b9d13-fe98-430a-adb7-55589c893d4d",
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
-    "recently-viewed",
-    "background_image_text_cj7cVR"
+    "recently-viewed"
   ]
 }
