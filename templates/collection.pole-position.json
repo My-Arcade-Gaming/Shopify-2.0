@@ -72,42 +72,6 @@
         "divider": false
       }
     },
-    "c3670781-3d5d-4177-9458-bc3a38344ec8": {
-      "type": "slideshow",
-      "blocks": {
-        "61531213-3130-448d-a247-199cf43540bc": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Racing Wheel",
-            "title_size": 40,
-            "subheading": "Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.",
-            "link": "shopify://products/tetris-micro-player-pro",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
-            "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 26
-          }
-        }
-      },
-      "block_order": [
-        "61531213-3130-448d-a247-199cf43540bc"
-      ],
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "dots",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": false
-      }
-    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -230,15 +194,51 @@
         "mobile_height": "auto"
       }
     },
+    "c3670781-3d5d-4177-9458-bc3a38344ec8": {
+      "type": "slideshow",
+      "blocks": {
+        "61531213-3130-448d-a247-199cf43540bc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Racing Wheel",
+            "title_size": 40,
+            "subheading": "Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.",
+            "link": "shopify://products/tetris-micro-player-pro",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
+            "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 26
+          }
+        }
+      },
+      "block_order": [
+        "61531213-3130-448d-a247-199cf43540bc"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
     "background_image_text_cj7cVR": {
       "type": "background-image-text",
       "custom_css": [
-        "p {color: red;}"
+
       ],
       "settings": {
-        "subtitle": "Feature",
-        "title": "Racing Wheel",
-        "text": "<p>Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.</p>",
+        "subtitle": "",
+        "title": "Pedal To th eMetal",
+        "text": "<p>Having pedal-looking<br/>buttons on the mini retro gaming cab adds a touch of authenticity, giving<br/>players the sensation of a real racing experience. These buttons enhance the<br/>“pedal to the metal” feeling, making each game session more immersive and exciting. </p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
@@ -248,57 +248,6 @@
         "parallax": false,
         "parallax_direction": "top",
         "lazyload_images": false
-      }
-    },
-    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Absolutely nails the retro vibe! The miniature steering wheel and pedal-like buttons make the experience feel just like the original arcade game I remember.</p>",
-            "author": "Alfred B.",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>I've taken this little racer everywhere—from flights to camping trips—and it’s been a hit every time. The compact size makes it easy to travel with, and the dual power options are super convenient.</p>",
-            "author": "Jeremy S.",
-            "author_info": "West Haven, CT"
-          }
-        },
-        "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>The attention to detail on the POLE POSITION Racing Player is impressive. From the artwork to the realistic steering wheel controls, this device feels like a true arcade experience in your hand.</p>",
-            "author": "John R.",
-            "author_info": "Waterloo, IA"
-          }
-        }
-      },
-      "block_order": [
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-2",
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1",
-        "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb"
-      ],
-      "custom_css": [
-        ".testimonial-stars {color: #ed1b2d;}",
-        "cite {color: #ed1b2d;}",
-        ".testimonials-slider__text {background: none; box-shadow: none;}",
-        "p {font-size: 20 px;}",
-        ".testimonials-section--with-divider {border: 0;}"
-      ],
-      "settings": {
-        "title": "FROM OUR CUSTOMERS",
-        "align_text": "center",
-        "round_images": true,
-        "color_background": "#ffffff",
-        "color_text": "#1c1d1d"
       }
     },
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31": {
@@ -478,20 +427,71 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
+    },
+    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3": {
+      "type": "testimonials",
+      "blocks": {
+        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Absolutely nails the retro vibe! The miniature steering wheel and pedal-like buttons make the experience feel just like the original arcade game I remember.</p>",
+            "author": "Alfred B.",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>I've taken this little racer everywhere—from flights to camping trips—and it’s been a hit every time. The compact size makes it easy to travel with, and the dual power options are super convenient.</p>",
+            "author": "Jeremy S.",
+            "author_info": "West Haven, CT"
+          }
+        },
+        "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>The attention to detail on the POLE POSITION Racing Player is impressive. From the artwork to the realistic steering wheel controls, this device feels like a true arcade experience in your hand.</p>",
+            "author": "John R.",
+            "author_info": "Waterloo, IA"
+          }
+        }
+      },
+      "block_order": [
+        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-2",
+        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1",
+        "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb"
+      ],
+      "custom_css": [
+        ".testimonial-stars {color: #ed1b2d;}",
+        "cite {color: #ed1b2d;}",
+        ".testimonials-slider__text {background: none; box-shadow: none;}",
+        "p {font-size: 20 px;}",
+        ".testimonials-section--with-divider {border: 0;}"
+      ],
+      "settings": {
+        "title": "FROM OUR CUSTOMERS",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#ffffff",
+        "color_text": "#1c1d1d"
+      }
     }
   },
   "order": [
     "4f8104d6-b8aa-4c81-9690-31a34b2c4beb",
     "rich_text_gYWiE4",
-    "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "main-collection",
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
     "hero_video_n3q3TN",
+    "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "background_image_text_cj7cVR",
-    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31",
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
     "recently-viewed",
-    "slideshow_7BqX3Q"
+    "slideshow_7BqX3Q",
+    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3"
   ]
 }
