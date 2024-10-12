@@ -178,22 +178,6 @@
         "product_video_style": "muted"
       }
     },
-    "hero_video_n3q3TN": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 80,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
     "c3670781-3d5d-4177-9458-bc3a38344ec8": {
       "type": "slideshow",
       "blocks": {
@@ -515,6 +499,22 @@
         "color_background": "#ffffff",
         "color_text": "#1c1d1d"
       }
+    },
+    "hero_video_n3q3TN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
     }
   },
   "order": [
@@ -522,7 +522,6 @@
     "rich_text_gYWiE4",
     "main-collection",
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
-    "hero_video_n3q3TN",
     "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "slideshow_GCyMeb",
     "background_image_text_cj7cVR",
@@ -530,6 +529,7 @@
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
     "recently-viewed",
     "slideshow_7BqX3Q",
-    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3"
+    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
+    "hero_video_n3q3TN"
   ]
 }
