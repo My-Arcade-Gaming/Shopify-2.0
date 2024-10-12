@@ -230,8 +230,45 @@
         "lazyload_images": false
       }
     },
+    "slideshow_GCyMeb": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jwm7UK": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Pedal To the Metal",
+            "title": "",
+            "title_size": 40,
+            "subheading": "Tactile buttons",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-right",
+            "image": "shopify://shop_images/Pole-Position-Feature-02-Wheel-D.png",
+            "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 26
+          }
+        }
+      },
+      "block_order": [
+        "image_jwm7UK"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": false
+      }
+    },
     "background_image_text_cj7cVR": {
       "type": "background-image-text",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -487,6 +524,7 @@
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
     "hero_video_n3q3TN",
     "c3670781-3d5d-4177-9458-bc3a38344ec8",
+    "slideshow_GCyMeb",
     "background_image_text_cj7cVR",
     "a1058db6-0bb2-45d6-b088-498a4d3f2c31",
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
