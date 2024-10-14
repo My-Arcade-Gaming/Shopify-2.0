@@ -57,7 +57,7 @@
         "text_yFrxKz": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>POLE POSITION is a classic 1982 arcade racing game by Namco. It became the highest-grossing arcade game in Japan in 1982 and the most popular coin-operated game internationally in 1983. In North America, it was the top-grossing arcade game in 1983 and 1984, and remained in the top five in 1985. Players control a race car, aiming to qualify for the pole position on an iconic racing circuit. Known for its third-person perspective, smooth graphics, and realistic driving mechanics, POLE POSITION is one of the most influential racing games in video game history.</p>"
           }
         }
