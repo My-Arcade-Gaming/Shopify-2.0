@@ -178,6 +178,22 @@
         "product_video_style": "muted"
       }
     },
+    "hero_video_n3q3TN": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "c3670781-3d5d-4177-9458-bc3a38344ec8": {
       "type": "slideshow",
       "blocks": {
@@ -185,19 +201,19 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Racing Wheel",
+            "title": "Officially licensed titles:",
             "title_size": 40,
-            "subheading": "Having a miniature steering wheel on the Pole Position mini retro gaming cab is incredibly cool, adding an authentic and nostalgic touch to the classic racing experience. It perfectly captures the thrill of the arcade, making each race feel like a true adventure.",
-            "link": "shopify://products/tetris-micro-player-pro",
+            "subheading": "Includes POLE POSITION and POLE POSITION II.",
+            "link": "shopify://collections/pole-position",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D.png",
+            "image": "shopify://shop_images/Module-03-Licensed_Title.png",
             "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
             "parallax_direction": "top",
-            "overlay_opacity": 26
+            "overlay_opacity": 10
           }
         }
       },
@@ -500,7 +516,7 @@
         "color_text": "#1c1d1d"
       }
     },
-    "hero_video_n3q3TN": {
+    "hero_video_cmYRYM": {
       "type": "hero-video",
       "settings": {
         "title": "",
@@ -522,6 +538,7 @@
     "rich_text_gYWiE4",
     "main-collection",
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
+    "hero_video_n3q3TN",
     "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "slideshow_GCyMeb",
     "background_image_text_cj7cVR",
@@ -530,6 +547,6 @@
     "recently-viewed",
     "slideshow_7BqX3Q",
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
-    "hero_video_n3q3TN"
+    "hero_video_cmYRYM"
   ]
 }
