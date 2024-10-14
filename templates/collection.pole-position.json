@@ -448,12 +448,31 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_Qc4jiA": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Take everywhere with you",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Module-07-Optional_Slideshow-04.2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "image_7ndQyB",
         "image_ET4iem",
-        "image_TrxxrD"
+        "image_TrxxrD",
+        "image_Qc4jiA"
       ],
       "settings": {
         "section_height": "650px",
