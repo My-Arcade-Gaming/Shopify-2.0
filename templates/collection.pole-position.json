@@ -236,17 +236,17 @@
         "image_jwm7UK": {
           "type": "image",
           "settings": {
-            "top_subheading": "Pedal To the Metal",
+            "top_subheading": "Realistic Racing Controls",
             "title": "",
             "title_size": 40,
-            "subheading": "Tactile buttons",
+            "subheading": "Highscore Saving",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-bottom horizontal-right",
-            "image": "shopify://shop_images/Pole-Position-Feature-02-Wheel-D.png",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-Feature-01-Wheel-D_75b71330-ac03-4ffc-9519-faa16c451ef2.png",
             "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
             "parallax_direction": "top",
             "overlay_opacity": 26
@@ -398,10 +398,10 @@
         "image_7ndQyB": {
           "type": "image",
           "settings": {
-            "top_subheading": "Take everywhere with you",
+            "top_subheading": "Fully playable on the go",
             "title": "",
             "title_size": 80,
-            "subheading": "",
+            "subheading": "Powered by either 4 AA batteries (not included) or a USB-C® cable (not included).",
             "link": "",
             "link_text": "",
             "link_2": "",
