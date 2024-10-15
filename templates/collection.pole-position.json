@@ -236,8 +236,8 @@
         "image_jwm7UK": {
           "type": "image",
           "settings": {
-            "top_subheading": "Realistic Racing Controls",
-            "title": "",
+            "top_subheading": "",
+            "title": "Realistic Racing Controls",
             "title_size": 40,
             "subheading": "Highscore Saving",
             "link": "",
