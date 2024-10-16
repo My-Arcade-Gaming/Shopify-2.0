@@ -263,7 +263,6 @@
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify://shop_images/Racing-Player_A_-Files-02.png",
-            "image_mobile": "shopify://shop_images/Pole-Position-Feature-01-Wheel-M.png",
             "parallax_direction": "top",
             "overlay_opacity": 26
           }
