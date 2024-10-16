@@ -268,6 +268,7 @@
       "blocks": {
         "klaviyo_reviews_product_reviews_4E8gYQ": {
           "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "disabled": true,
           "settings": {
           }
         }
