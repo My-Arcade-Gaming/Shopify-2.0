@@ -196,7 +196,6 @@
     },
     "hero_video_cmYRYM": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
@@ -558,7 +557,6 @@
     "main-collection",
     "hero_video_n3q3TN",
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
-    "hero_video_cmYRYM",
     "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "slideshow_GCyMeb",
     "background_image_text_cj7cVR",
@@ -566,6 +564,7 @@
     "71e875c2-83aa-4e6d-87a0-486101917cd1",
     "recently-viewed",
     "slideshow_7BqX3Q",
-    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3"
+    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
+    "hero_video_cmYRYM"
   ]
 }
