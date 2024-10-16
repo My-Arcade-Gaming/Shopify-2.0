@@ -535,6 +535,7 @@
         "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1",
         "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb"
       ],
+      "disabled": true,
       "custom_css": [
         ".testimonial-stars {color: #ed1b2d;}",
         "cite {color: #ed1b2d;}",
