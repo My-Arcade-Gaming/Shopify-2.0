@@ -554,9 +554,9 @@
     "background_video_text_kA6Pxw": {
       "type": "background-video-text",
       "settings": {
-        "subtitle": "Video",
-        "title": "2024 POLE POSITION Racing Player Review",
-        "text": "<p>Check our latest review by GenXGrownUp.</p>",
+        "subtitle": "",
+        "title": "POLE POSITION RACING PLAYER REVIEW",
+        "text": "<p>by GenXGrownUp.</p>",
         "button_label": "Watch Video",
         "button_link": "",
         "video_url": "https://www.youtube.com/watch?v=QVzNQZCOAG8",
