@@ -549,6 +549,20 @@
         "section_height": "650px",
         "mobile_height": "auto"
       }
+    },
+    "background_video_text_kA6Pxw": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Video",
+        "title": "2024 POLE POSITION Racing Player Review",
+        "text": "<p>Check our latest review by GenXGrownUp.</p>",
+        "button_label": "Watch Video",
+        "button_link": "",
+        "video_url": "https://www.youtube.com/watch?v=QVzNQZCOAG8",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 550
+      }
     }
   },
   "order": [
@@ -565,6 +579,7 @@
     "recently-viewed",
     "slideshow_7BqX3Q",
     "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
-    "hero_video_cmYRYM"
+    "hero_video_cmYRYM",
+    "background_video_text_kA6Pxw"
   ]
 }
