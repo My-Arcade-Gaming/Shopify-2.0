@@ -536,7 +536,6 @@
     },
     "hero_video_cmYRYM": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
         "title": "",
         "title_size": 80,
@@ -545,7 +544,7 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://www.youtube.com/watch?v=UCCDluMxDhw",
+        "video_url": "https://www.youtube.com/watch?v=QVzNQZCOAG8",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
