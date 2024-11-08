@@ -33,6 +33,7 @@
         },
         "slideshow-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "Available now",
             "title": "Atari Gamestation Pro",
@@ -133,8 +134,7 @@
       "blocks": {
         "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-price-1": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "5ecfa571-8427-434d-9775-42cab3f236c6": {
           "type": "custom",
@@ -586,9 +586,7 @@
         "template--20545212547377__26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1-liquid-1"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "full_width": false,
         "space_around": true,
