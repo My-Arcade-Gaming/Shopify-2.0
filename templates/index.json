@@ -688,6 +688,19 @@
         "direction": "left",
         "speed": 300
       }
+    },
+    "featured_collection_Uf4Mpf": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Best Sellers",
+        "home_featured_products": "best-sellers",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -702,6 +715,7 @@
     "26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1",
     "71267b25-a14e-417f-8537-b342f1542042",
     "1695350325f76d86b2",
-    "b21c6d06-9e29-402f-90d4-6e6b6acc3d43"
+    "b21c6d06-9e29-402f-90d4-6e6b6acc3d43",
+    "featured_collection_Uf4Mpf"
   ]
 }
