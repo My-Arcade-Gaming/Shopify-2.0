@@ -9,18 +9,6 @@
  */
 {
   "sections": {
-    "featured_collection_Uf4Mpf": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Best Sellers",
-        "home_featured_products": "best-sellers",
-        "per_row": 3,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": false
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -140,6 +128,18 @@
         "lazyload_images": false
       }
     },
+    "featured_collection_Uf4Mpf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "home_featured_products": "best-sellers",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
     "e78485fc-7612-4766-a96f-34800d6bb942": {
       "type": "featured-product",
       "blocks": {
@@ -186,6 +186,7 @@
         "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-variant_picker-1",
         "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "featured_product": "atari-gamestation-pro",
         "divider": false,
@@ -704,8 +705,8 @@
     }
   },
   "order": [
-    "featured_collection_Uf4Mpf",
     "slideshow",
+    "featured_collection_Uf4Mpf",
     "e78485fc-7612-4766-a96f-34800d6bb942",
     "776fe282-8229-4a93-9f52-557875a135e7",
     "e96ca56c-27ac-41db-b96d-be67144ef9b9",
