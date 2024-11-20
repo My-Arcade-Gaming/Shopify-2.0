@@ -79,6 +79,7 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true,
@@ -87,6 +88,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {}
         }
       },
@@ -126,122 +128,6 @@
         "max_width": true
       }
     },
-    "background-image-text": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "About your brand",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-        "button_label": "",
-        "button_link": "",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
-        "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": true
-      }
-    },
-    "testimonials": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonials-0": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonials-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonial_GbnfFr": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonials-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        }
-      },
-      "block_order": [
-        "testimonials-0",
-        "testimonials-1",
-        "testimonial_GbnfFr",
-        "testimonials-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Testimonials",
-        "align_text": "center",
-        "round_images": true,
-        "color_background": "#f9f9f9",
-        "color_text": "#1c1d1d"
-      }
-    },
-    "df696584-1c28-416a-909e-ba014811af78": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "icon": "gears",
-            "title": "Screen Size",
-            "text": "<p>{{ product.metafields.custom.screen_size.value }}</p>"
-          }
-        },
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
-          }
-        },
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-1",
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2",
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "desktop_columns_per_row": 3,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "divider": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -259,34 +145,13 @@
     "collection-return": {
       "type": "collection-return",
       "settings": {}
-    },
-    "171235100839fe78e8": {
-      "type": "apps",
-      "blocks": {
-        "klaviyo_reviews_product_reviews_4E8gYQ": {
-          "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
-          "disabled": true,
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "klaviyo_reviews_product_reviews_4E8gYQ"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
     "main",
     "sub",
-    "background-image-text",
-    "testimonials",
-    "df696584-1c28-416a-909e-ba014811af78",
     "product-recommendations",
     "recently-viewed",
-    "collection-return",
-    "171235100839fe78e8"
+    "collection-return"
   ]
 }
