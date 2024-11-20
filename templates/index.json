@@ -131,8 +131,8 @@
     "featured_collection_Uf4Mpf": {
       "type": "featured-collection",
       "settings": {
-        "title": "Best Sellers",
-        "home_featured_products": "best-sellers",
+        "title": "NEW RELEASES",
+        "home_featured_products": "new-releases",
         "per_row": 3,
         "rows": 1,
         "mobile_scrollable": true,
