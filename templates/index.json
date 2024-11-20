@@ -159,6 +159,7 @@
         },
         "template--20545212547377__e78485fc-7612-4766-a96f-34800d6bb942-buy_buttons-1": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "surface_pickup_enable": true,
