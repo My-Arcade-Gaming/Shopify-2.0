@@ -15,9 +15,9 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "Available now",
+            "top_subheading": "",
             "title": "Atari Gamestation Pro",
-            "title_size": 60,
+            "title_size": 47,
             "subheading": "Download Firmware Update v.1.30",
             "link": "shopify://products/atari-gamestation-pro",
             "link_text": "Learn more",
