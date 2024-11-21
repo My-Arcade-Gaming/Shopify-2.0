@@ -12,25 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Atari Gamestation Pro",
-            "title_size": 47,
-            "subheading": "Download Firmware Update v.1.30",
-            "link": "shopify://products/atari-gamestation-pro",
-            "link_text": "Learn more",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#b30000",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Website-header-01.jpg",
-            "image_mobile": "shopify://shop_images/Website-header-01_Mobile.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd": {
           "type": "image",
           "disabled": true,
@@ -109,14 +90,33 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Atari Gamestation Pro",
+            "title_size": 44,
+            "subheading": "Download Firmware Update v.1.30",
+            "link": "shopify://products/atari-gamestation-pro",
+            "link_text": "Learn more",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#b30000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Website-header-01.jpg",
+            "image_mobile": "shopify://shop_images/Website-header-01_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "slideshow-0",
         "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd",
         "d421d03e-59de-4349-8798-414cc772243c",
         "1f8402bf-57ed-4d9d-8ed4-d996aa70e05a",
-        "image_ixw3Da"
+        "image_ixw3Da",
+        "slideshow-0"
       ],
       "custom_css": [
         "h2 {font-weight: 900;}"
