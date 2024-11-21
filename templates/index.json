@@ -12,25 +12,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "0b4aca8e-8a56-4764-afd7-25a0ff00366d": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "top_subheading": "June 7-9, 2024",
-            "title": "Classic Tetris World Championship (CTWC)",
-            "title_size": 60,
-            "subheading": "Sponsored by My Arcade® Streaming live on Twitch & YouTube!",
-            "link": "https://thectwc.com/",
-            "link_text": "Learn More",
-            "link_2": "https://thectwc.com/",
-            "link_text_2": "",
-            "color_accent": "#b30000",
-            "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify://shop_images/CTWC_Banner-01_1.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "slideshow-0": {
           "type": "image",
           "settings": {
@@ -52,6 +33,7 @@
         },
         "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "Atari Collection",
@@ -71,6 +53,7 @@
         },
         "d421d03e-59de-4349-8798-414cc772243c": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "Super Street Fighter II",
@@ -90,6 +73,7 @@
         },
         "1f8402bf-57ed-4d9d-8ed4-d996aa70e05a": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "2024 My Arcade Collection",
@@ -106,14 +90,33 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "image_ixw3Da": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "NEW RELEASE",
+            "title": "PAC-MAN JOYSTICK PLAYER",
+            "title_size": 44,
+            "subheading": "PORTABLE RETRO ARCADE",
+            "link": "shopify://products/pac-man-joystick-player",
+            "link_text": "LEARN MORE",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pac-Man-JoystickPlayer-D.png",
+            "image_mobile": "shopify://shop_images/Pac-Man-JoystickPlayer-M.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "0b4aca8e-8a56-4764-afd7-25a0ff00366d",
         "slideshow-0",
         "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd",
         "d421d03e-59de-4349-8798-414cc772243c",
-        "1f8402bf-57ed-4d9d-8ed4-d996aa70e05a"
+        "1f8402bf-57ed-4d9d-8ed4-d996aa70e05a",
+        "image_ixw3Da"
       ],
       "custom_css": [
         "h2 {font-weight: 900;}"
