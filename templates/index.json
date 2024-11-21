@@ -70,25 +70,6 @@
             "overlay_opacity": 0
           }
         },
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Atari Gamestation Pro",
-            "title_size": 44,
-            "subheading": "Download Firmware Update v.1.30",
-            "link": "shopify://products/atari-gamestation-pro",
-            "link_text": "Learn more",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#b30000",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Website-header-01.jpg",
-            "image_mobile": "shopify://shop_images/Website-header-01_Mobile.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
         "image_BcpP7g": {
           "type": "image",
           "settings": {
@@ -107,14 +88,33 @@
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
+        },
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Atari Gamestation Pro",
+            "title_size": 44,
+            "subheading": "Download Firmware Update v.1.30",
+            "link": "shopify://products/atari-gamestation-pro",
+            "link_text": "Learn more",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#b30000",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Website-header-01.jpg",
+            "image_mobile": "shopify://shop_images/Website-header-01_Mobile.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
         "d7ac39b1-849c-45c7-bdbe-9c6a523f7ebd",
         "image_9EFCKr",
         "image_ixw3Da",
-        "slideshow-0",
-        "image_BcpP7g"
+        "image_BcpP7g",
+        "slideshow-0"
       ],
       "custom_css": [
         "h2 {font-weight: 900;}"
