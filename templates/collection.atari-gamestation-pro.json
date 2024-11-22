@@ -180,22 +180,21 @@
             "overlay_opacity": 0
           }
         },
-        "9766bc9e-3f56-459f-95a1-12cf8559e2ae": {
+        "image_6RK3Kb": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/atari-pocket-player-pro",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Atari_50_Pocket_Player_Pro_-_Desktop.jpg",
-            "image_mobile": "shopify://shop_images/Atari_50_Pocket_Player_Pro_-_Mobile.jpg",
+            "image": "shopify://shop_images/GSP-D_4.png",
+            "image_mobile": "shopify://shop_images/GSP-M_4.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -204,7 +203,7 @@
       "block_order": [
         "61531213-3130-448d-a247-199cf43540bc",
         "97065964-81df-4aed-a541-d019ca885168",
-        "9766bc9e-3f56-459f-95a1-12cf8559e2ae"
+        "image_6RK3Kb"
       ],
       "settings": {
         "section_height": "650px",
