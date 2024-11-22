@@ -147,16 +147,16 @@
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
+            "title_size": 40,
             "subheading": "",
-            "link": "shopify://products/atari-gamestation-pro",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Atari_GameStation_Pro_Console_-_Desktop_a686f34f-9a6a-4a9f-ae96-054c0402b739.jpg",
-            "image_mobile": "shopify://shop_images/Atari_GameStation_Pro_Console_-_Mobile.jpg",
+            "image": "shopify://shop_images/GSP-D_1.png",
+            "image_mobile": "shopify://shop_images/GSP-M_1.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -166,16 +166,16 @@
           "settings": {
             "top_subheading": "",
             "title": "",
-            "title_size": 80,
+            "title_size": 40,
             "subheading": "",
-            "link": "shopify://products/atari-gamestation-pro",
+            "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Atari_GameStation_Pro_Joystick_-_Desktop_825f68b9-2501-4b6a-9f92-fdc3915a61e4.jpg",
-            "image_mobile": "shopify://shop_images/Atari_GameStation_Pro_Joystick_-_Mobile.jpg",
+            "image": "shopify://shop_images/GSP-D_2.png",
+            "image_mobile": "shopify://shop_images/GSP-M_2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -206,9 +206,8 @@
         "97065964-81df-4aed-a541-d019ca885168",
         "9766bc9e-3f56-459f-95a1-12cf8559e2ae"
       ],
-      "disabled": true,
       "settings": {
-        "section_height": "100vh",
+        "section_height": "650px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "dots",
