@@ -9,6 +9,102 @@
  */
 {
   "sections": {
+    "c3670781-3d5d-4177-9458-bc3a38344ec8": {
+      "type": "slideshow",
+      "blocks": {
+        "61531213-3130-448d-a247-199cf43540bc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/GSP-D_1.png",
+            "image_mobile": "shopify://shop_images/GSP-M_1.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "97065964-81df-4aed-a541-d019ca885168": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/GSP-D_2.png",
+            "image_mobile": "shopify://shop_images/GSP-M_2.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_6RK3Kb": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/GSP-D_4.png",
+            "image_mobile": "shopify://shop_images/GSP-M_4.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_AMtBjd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/GSP-D_3.png",
+            "image_mobile": "shopify://shop_images/GSP-M_3.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "61531213-3130-448d-a247-199cf43540bc",
+        "97065964-81df-4aed-a541-d019ca885168",
+        "image_6RK3Kb",
+        "image_AMtBjd"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "6b6c249d-b672-4990-ae80-02b6fd713288": {
       "type": "hero-video",
       "settings": {
@@ -134,102 +230,6 @@
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "c3670781-3d5d-4177-9458-bc3a38344ec8": {
-      "type": "slideshow",
-      "blocks": {
-        "61531213-3130-448d-a247-199cf43540bc": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/GSP-D_1.png",
-            "image_mobile": "shopify://shop_images/GSP-M_1.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "97065964-81df-4aed-a541-d019ca885168": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 40,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/GSP-D_2.png",
-            "image_mobile": "shopify://shop_images/GSP-M_2.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_6RK3Kb": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/GSP-D_4.png",
-            "image_mobile": "shopify://shop_images/GSP-M_4.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_AMtBjd": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/GSP-D_3.png",
-            "image_mobile": "shopify://shop_images/GSP-M_3.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "61531213-3130-448d-a247-199cf43540bc",
-        "97065964-81df-4aed-a541-d019ca885168",
-        "image_6RK3Kb",
-        "image_AMtBjd"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "dots",
         "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": true
@@ -502,11 +502,11 @@
     }
   },
   "order": [
+    "c3670781-3d5d-4177-9458-bc3a38344ec8",
+    "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
     "6b6c249d-b672-4990-ae80-02b6fd713288",
     "6450a7b1-5c40-4aea-812c-522abb07e114",
-    "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
     "4f8104d6-b8aa-4c81-9690-31a34b2c4beb",
-    "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "main-collection",
     "113d4e17-857d-4be9-967e-d0fc3050ba71",
     "04053950-6687-4e2f-850f-1a136965e547",
