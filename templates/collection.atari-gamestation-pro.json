@@ -63,8 +63,8 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/GSP-D_4.png",
-            "image_mobile": "shopify://shop_images/GSP-M_4.png",
+            "image": "shopify://shop_images/GSP-D_5.png",
+            "image_mobile": "shopify://shop_images/GSP-M_5.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
@@ -103,31 +103,6 @@
         "autoplay": false,
         "autoplay_speed": 5,
         "lazyload_images": true
-      }
-    },
-    "6b6c249d-b672-4990-ae80-02b6fd713288": {
-      "type": "hero-video",
-      "settings": {
-        "title": "",
-        "title_size": 40,
-        "subheading": "",
-        "link_text": "",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/cefd4df125d941ec939ed894c2c0368d.mp4",
-        "overlay_opacity": 0,
-        "section_height": "100vh",
-        "mobile_height": "300px"
-      }
-    },
-    "6450a7b1-5c40-4aea-812c-522abb07e114": {
-      "type": "featured-video",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "video_url": "https://www.youtube.com/watch?v=A7z6JTarAZU&t=3s",
-        "divider": false
       }
     },
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8": {
@@ -196,6 +171,31 @@
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
+      }
+    },
+    "6b6c249d-b672-4990-ae80-02b6fd713288": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 40,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/cefd4df125d941ec939ed894c2c0368d.mp4",
+        "overlay_opacity": 0,
+        "section_height": "100vh",
+        "mobile_height": "300px"
+      }
+    },
+    "6450a7b1-5c40-4aea-812c-522abb07e114": {
+      "type": "featured-video",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "video_url": "https://www.youtube.com/watch?v=A7z6JTarAZU&t=3s",
+        "divider": false
       }
     },
     "4f8104d6-b8aa-4c81-9690-31a34b2c4beb": {
