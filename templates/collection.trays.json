@@ -18,11 +18,25 @@
         "parallax_direction": "top"
       }
     },
+    "featured_collection_AWNkC6": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "point-of-purchase-trays",
+        "per_row": 3,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
         "collection_description": {
           "type": "collection_description",
+          "disabled": true,
           "settings": {}
         },
         "subcollections": {
@@ -34,7 +48,7 @@
         "product_grid": {
           "type": "product_grid",
           "settings": {
-            "enable_collection_count": true,
+            "enable_collection_count": false,
             "per_row": 4,
             "rows_per_page": 7,
             "mobile_flush_grid": false
@@ -57,6 +71,7 @@
   },
   "order": [
     "collection-header",
+    "featured_collection_AWNkC6",
     "main-collection"
   ]
 }

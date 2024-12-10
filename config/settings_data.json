@@ -58,11 +58,11 @@
     "icon_weight": "5px",
     "icon_linecaps": "miter",
     "product_save_amount": true,
-    "quick_shop_enable": true,
+    "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
     "product_grid_image_size": "square",
     "product_hover_image": false,
-    "enable_product_reviews": true,
+    "enable_product_reviews": false,
     "collection_grid_style": "overlaid-box",
     "collection_grid_shape": "portrait",
     "collection_grid_image": "collection",
@@ -116,8 +116,7 @@
         "blocks": {
           "1524768779513": {
             "type": "logo",
-            "settings": {
-            }
+            "settings": {}
           }
         },
         "block_order": [
@@ -137,8 +136,7 @@
         "blocks": {
           "1494292487693": {
             "type": "newsletter",
-            "settings": {
-            }
+            "settings": {}
           },
           "1526406521795": {
             "type": "menu",
@@ -165,8 +163,7 @@
       },
       "newsletter-popup": {
         "type": "newsletter-popup",
-        "settings": {
-        }
+        "settings": {}
       },
       "collection-header": {
         "type": "collection-header",
@@ -177,21 +174,17 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "5784066569132941777": {
         "type": "shopify://apps/s-store-locator/blocks/embed-app/e7003487-cc51-4321-9488-2c47c07a5b17",
         "disabled": true,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -583,8 +576,7 @@
           "blocks": {
             "1524768779513": {
               "type": "logo",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -604,8 +596,7 @@
           "blocks": {
             "1494292487693": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "1526406521795": {
               "type": "menu",
@@ -632,8 +623,7 @@
         },
         "newsletter-popup": {
           "type": "newsletter-popup",
-          "settings": {
-          }
+          "settings": {}
         },
         "collection-header": {
           "type": "collection-header",
