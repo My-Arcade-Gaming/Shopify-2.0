@@ -49,6 +49,7 @@
         "subcollections",
         "product_grid"
       ],
+      "disabled": true,
       "settings": {
         "enable_sidebar": false,
         "collapsed": false,
@@ -60,10 +61,10 @@
     "featured_collection_7akNtJ": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Point of Purchase Trays",
         "home_featured_products": "point-of-purchase-trays",
-        "per_row": 4,
-        "rows": 1,
+        "per_row": 3,
+        "rows": 3,
         "mobile_scrollable": true,
         "view_all": true,
         "divider": false
