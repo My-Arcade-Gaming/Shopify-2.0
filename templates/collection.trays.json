@@ -50,16 +50,29 @@
         "product_grid"
       ],
       "settings": {
-        "enable_sidebar": true,
-        "collapsed": true,
-        "filter_style": "sidebar",
+        "enable_sidebar": false,
+        "collapsed": false,
+        "filter_style": "drawer",
         "enable_color_swatches": false,
-        "enable_sort": true
+        "enable_sort": false
+      }
+    },
+    "featured_collection_7akNtJ": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "point-of-purchase-trays",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
   "order": [
     "collection-header",
-    "main-collection"
+    "main-collection",
+    "featured_collection_7akNtJ"
   ]
 }
