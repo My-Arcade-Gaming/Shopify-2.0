@@ -633,6 +633,7 @@
     },
     "b21c6d06-9e29-402f-90d4-6e6b6acc3d43": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "Follow us on Instagram @MyArcadeRetro",
         "link": "",
@@ -722,6 +723,7 @@
         "logo_image_zAnqMt",
         "logo_image_8MUGjB"
       ],
+      "disabled": true,
       "settings": {
         "title": "AS SEEN AS",
         "logo_opacity": 76,
