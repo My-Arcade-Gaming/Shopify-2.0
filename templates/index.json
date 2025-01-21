@@ -681,6 +681,7 @@
         "logo_image_AUcaqF",
         "logo_image_yxiV6j"
       ],
+      "disabled": true,
       "settings": {
         "title": "AS SEEN AS",
         "logo_opacity": 76,
@@ -743,6 +744,7 @@
         "testimonial_b9TXKD",
         "testimonial_MzFVkc"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
