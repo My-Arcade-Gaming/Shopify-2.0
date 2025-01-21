@@ -680,6 +680,7 @@
             "title_color": "",
             "alignment": "center",
             "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -687,6 +688,7 @@
       "block_order": [
         "d516c847-51fe-4574-b58f-72ce41be1268"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "space_around": true
@@ -703,6 +705,50 @@
         "direction": "left",
         "speed": 300
       }
+    },
+    "logo_list_Kf4TVi": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_xiM7nH": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IGN.png",
+            "link": ""
+          }
+        },
+        "logo_image_NKtPqt": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/ESPN.png",
+            "link": ""
+          }
+        },
+        "logo_image_AUcaqF": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Forbes.png",
+            "link": ""
+          }
+        },
+        "logo_image_yxiV6j": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Digital_Trends.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_xiM7nH",
+        "logo_image_NKtPqt",
+        "logo_image_AUcaqF",
+        "logo_image_yxiV6j"
+      ],
+      "settings": {
+        "title": "AS SEEN AS",
+        "logo_opacity": 76,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -718,6 +764,7 @@
     "26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1",
     "71267b25-a14e-417f-8537-b342f1542042",
     "1695350325f76d86b2",
-    "b21c6d06-9e29-402f-90d4-6e6b6acc3d43"
+    "b21c6d06-9e29-402f-90d4-6e6b6acc3d43",
+    "logo_list_Kf4TVi"
   ]
 }
