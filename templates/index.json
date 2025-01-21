@@ -720,10 +720,10 @@
         "testimonial_b9TXKD": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>\"My Arcade Atari Gamestation Go takes the glorious history of gaming with you<br/>anywhere\"</p>",
+            "author": "Yanko Design",
+            "author_info": ""
           }
         },
         "testimonial_MzFVkc": {
