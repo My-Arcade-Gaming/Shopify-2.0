@@ -677,36 +677,42 @@
         "logo_image_NADhJP": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Sports_Illustrated.png",
             "link": ""
           }
         },
         "logo_image_9FKder": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Billboard.png",
             "link": ""
           }
         },
         "logo_image_tACAjg": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/yanko_Design.png",
             "link": ""
           }
         },
         "logo_image_FzJPKc": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Newsweek.png",
             "link": ""
           }
         },
         "logo_image_zAnqMt": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/CNN.png",
             "link": ""
           }
         },
         "logo_image_8MUGjB": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/The_Short_Cut.png",
             "link": ""
           }
         }
@@ -723,7 +729,6 @@
         "logo_image_zAnqMt",
         "logo_image_8MUGjB"
       ],
-      "disabled": true,
       "settings": {
         "title": "AS SEEN AS",
         "logo_opacity": 76,
