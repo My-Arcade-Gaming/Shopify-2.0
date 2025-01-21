@@ -729,10 +729,10 @@
         "testimonial_MzFVkc": {
           "type": "testimonial",
           "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
+            "icon": "none",
+            "testimonial": "<p>“Atari<br/>Crashes The 2025 Handheld Gaming Party”</p>",
+            "author": "Forbes",
+            "author_info": ""
           }
         }
       },
