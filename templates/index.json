@@ -607,69 +607,6 @@
         "lazyload_images": true
       }
     },
-    "71267b25-a14e-417f-8537-b342f1542042": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20545212547377__71267b25-a14e-417f-8537-b342f1542042-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "testimonial": "<p>“Forget past attempts to resurrect the Atari, this console brings modern styling to retro gaming.”</p>",
-            "author": "GIZMODO",
-            "author_info": ""
-          }
-        },
-        "18cfa480-3706-4cea-a4b3-3ac5cb3e8133": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "testimonial": "<p>“These are pretty neat looking handhelds, and are perfect collectible display pieces while also being actually playable.”</p>",
-            "author": "RETRO DODO",
-            "author_info": ""
-          }
-        },
-        "8d39a381-999e-42b6-b204-9c4161cbd71a": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "testimonial": "<p>“The build quality and attention to detail are second to none on this unit. Highly recommended!”</p>",
-            "author": "GBATEMP",
-            "author_info": ""
-          }
-        },
-        "58279ccb-7a7f-4df0-b8e4-f5d385d98215": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "testimonial": "<p>“Unlike previous attempts to create such a console, this one sticks to a very modern aesthetic design while retaining some of the nostalgic elements.\"</p>",
-            "author": "YANKO DESIGN",
-            "author_info": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20545212547377__71267b25-a14e-417f-8537-b342f1542042-testimonial-1",
-        "18cfa480-3706-4cea-a4b3-3ac5cb3e8133",
-        "8d39a381-999e-42b6-b204-9c4161cbd71a",
-        "58279ccb-7a7f-4df0-b8e4-f5d385d98215"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {color: #ed1b2d; font-weight: bold;}",
-        ".index-section {margin: 0;}",
-        "cite {color: #ed1b2d;}",
-        ".testimonials-slider__text {background: none; box-shadow: none;}",
-        "p {font-size: 28px;}",
-        ".testimonials-section--with-divider {border: none;}"
-      ],
-      "settings": {
-        "title": "WHAT OTHERS ARE SAYING",
-        "align_text": "center",
-        "round_images": false,
-        "color_background": "#ffffff",
-        "color_text": "#1c1d1d"
-      }
-    },
     "1695350325f76d86b2": {
       "type": "apps",
       "blocks": {
@@ -749,6 +686,70 @@
         "logo_opacity": 76,
         "divider": false
       }
+    },
+    "testimonials_7A8rXB": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_DiMKYz": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>\"The best of CES 2025: We picked<br/>17 products you need to watch this year\"</p>",
+            "author": "CNN",
+            "author_info": ""
+          }
+        },
+        "testimonial_NHiN6W": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>\"The Shortcut CES 2025 Awards: the top 25 tech picks and the people behind them\"</p>",
+            "author": "The Shortcut",
+            "author_info": ""
+          }
+        },
+        "testimonial_jbgaJF": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "testimonial": "<p>\"Best of CES 2025: Party Speakers, Retro Gaming and Content Creator Tools to Level Up<br/>Your Game\"</p>",
+            "author": "Billboard",
+            "author_info": ""
+          }
+        },
+        "testimonial_b9TXKD": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonial_MzFVkc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_DiMKYz",
+        "testimonial_NHiN6W",
+        "testimonial_jbgaJF",
+        "testimonial_b9TXKD",
+        "testimonial_MzFVkc"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
     }
   },
   "order": [
@@ -762,9 +763,9 @@
     "featured-collection",
     "b4d3d5e9-ada0-4ca0-8459-7861f06d27e5",
     "26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1",
-    "71267b25-a14e-417f-8537-b342f1542042",
     "1695350325f76d86b2",
     "b21c6d06-9e29-402f-90d4-6e6b6acc3d43",
-    "logo_list_Kf4TVi"
+    "logo_list_Kf4TVi",
+    "testimonials_7A8rXB"
   ]
 }
