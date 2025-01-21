@@ -78,6 +78,7 @@
     "social_twitter_link": "https://twitter.com/MyArcadeRetro",
     "social_instagram_link": "https://www.instagram.com/myarcaderetro/?hl=en",
     "social_youtube_link": "https://www.youtube.com/@MyArcaderetro?hl=en",
+    "favicon": "shopify://shop_images/myarcade-logo-icon.png",
     "search_enable": true,
     "show_breadcrumbs": false,
     "checkout_logo_position": "left",
