@@ -734,7 +734,7 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/Digital_Trends.png",
-            "link": ""
+            "link": "https://www.digitaltrends.com/gaming/atari-gamestation-go-hands-on/"
           }
         }
       },
