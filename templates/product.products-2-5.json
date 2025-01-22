@@ -57,6 +57,7 @@
         },
         "tab_QDGFgB": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Dimensions",
             "content": "<p>\" alt=\"Description of the image\" /&gt;</p>",
