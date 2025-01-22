@@ -47,12 +47,6 @@
             "page": ""
           }
         },
-        "custom_Twkjqp": {
-          "type": "custom",
-          "settings": {
-            "code": "<img src=\"{{ 'Pac-Ma-Joystickplayer-PDP-01.png' | file_url }}\" alt=\"Description of the image\" />"
-          }
-        },
         "tab_Qea9KD": {
           "type": "tab",
           "settings": {
@@ -65,8 +59,18 @@
           "type": "tab",
           "settings": {
             "title": "Dimensions",
-            "content": "",
+            "content": "<p>\" alt=\"Description of the image\" /&gt;</p>",
             "page": ""
+          }
+        },
+        "separator_Rr6Mey": {
+          "type": "separator",
+          "settings": {}
+        },
+        "custom_Twkjqp": {
+          "type": "custom",
+          "settings": {
+            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions.png' | file_url }}\" alt=\"Description of the image\" />"
           }
         },
         "buy_buttons": {
@@ -88,9 +92,10 @@
         "variant_picker",
         "description",
         "tab",
-        "custom_Twkjqp",
         "tab_Qea9KD",
         "tab_QDGFgB",
+        "separator_Rr6Mey",
+        "custom_Twkjqp",
         "buy_buttons",
         "share"
       ],
