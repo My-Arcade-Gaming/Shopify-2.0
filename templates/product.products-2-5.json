@@ -43,8 +43,14 @@
           "type": "tab",
           "settings": {
             "title": "Features",
-            "content": "<p>Officially licensed, fully playable titles.</p><p>Packed with over 200 built-in Atari® + bonus titles.</p><p>Titles include Asteroids®, Centipede®, PONG®, Breakout®, Missile Command®, Warlords® and many more.</p><p>System connects directly to TV via HDMI®.</p><p>Two 2.4 GHz wireless joysticks, inspired by the original Atari joysticks, include built-in paddles for games like Breakout®, Warlords® and many more.</p><p>Dynamic RGB LED lights.</p><p>Game save options.</p>",
+            "content": "<ul><li>Officially licensed, fully playable titles.</li><li>Packed with over 200 built-in Atari® + bonus titles.</li><li>Titles include Asteroids®, Centipede®, PONG®, Breakout®, Missile Command®, Warlords® and many more.</li><li>System connects directly to TV via HDMI®.</li><li>Two 2.4 GHz wireless joysticks, inspired by the original Atari joysticks, include built-in paddles for games like Breakout®, Warlords® and many more.</li><li>Dynamic RGB LED lights.</li><li>Game save options.</li></ul>",
             "page": ""
+          }
+        },
+        "custom_Twkjqp": {
+          "type": "custom",
+          "settings": {
+            "code": "<img src=\"{{ 'Pac-Ma-Joystickplayer-PDP-01.png' | file_url }}\" alt=\"Description of the image\" />"
           }
         },
         "tab_Qea9KD": {
@@ -55,12 +61,12 @@
             "page": ""
           }
         },
-        "contact": {
-          "type": "contact",
-          "disabled": true,
+        "tab_QDGFgB": {
+          "type": "tab",
           "settings": {
-            "title": "Ask a question",
-            "phone": false
+            "title": "Dimensions",
+            "content": "",
+            "page": ""
           }
         },
         "buy_buttons": {
@@ -82,8 +88,9 @@
         "variant_picker",
         "description",
         "tab",
+        "custom_Twkjqp",
         "tab_Qea9KD",
-        "contact",
+        "tab_QDGFgB",
         "buy_buttons",
         "share"
       ],
