@@ -73,6 +73,10 @@
             "code": "<img src=\"{{ 'Micro-PLayer-Dimensions.png' | file_url }}\" alt=\"Description of the image\" />"
           }
         },
+        "separator_JUKiNY": {
+          "type": "separator",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -96,6 +100,7 @@
         "tab_QDGFgB",
         "separator_Rr6Mey",
         "custom_Twkjqp",
+        "separator_JUKiNY",
         "buy_buttons",
         "share"
       ],
@@ -109,7 +114,7 @@
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
         "thumbnail_height": "flexible",
-        "thumbnail_arrows": false,
+        "thumbnail_arrows": true,
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
