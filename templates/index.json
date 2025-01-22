@@ -391,6 +391,99 @@
         "divider": false
       }
     },
+    "logo_list_Kf4TVi": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_xiM7nH": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IGN.png",
+            "link": "https://www.ign.com/articles/ataris-gamestation-go-rolls-the-trak-ball-paddle-and-keypad-controllers-into-one-handheld-console"
+          }
+        },
+        "logo_image_NKtPqt": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/ESPN.png",
+            "link": "https://www.espn.com/gaming/story/_/id/43274100/atari-gamestation-go-handheld-reveal"
+          }
+        },
+        "logo_image_AUcaqF": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Forbes.png",
+            "link": "https://www.forbes.com/sites/jasonevangelho/2025/01/03/atari-has-entered-the-chat/"
+          }
+        },
+        "logo_image_yxiV6j": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Digital_Trends.png",
+            "link": "https://www.digitaltrends.com/gaming/atari-gamestation-go-hands-on/"
+          }
+        },
+        "logo_image_NADhJP": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Sports_Illustrated.png",
+            "link": ""
+          }
+        },
+        "logo_image_9FKder": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Billboard.png",
+            "link": ""
+          }
+        },
+        "logo_image_tACAjg": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/yanko_Design.png",
+            "link": ""
+          }
+        },
+        "logo_image_FzJPKc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Newsweek.png",
+            "link": ""
+          }
+        },
+        "logo_image_zAnqMt": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/CNN.png",
+            "link": ""
+          }
+        },
+        "logo_image_8MUGjB": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/The_Short_Cut.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_xiM7nH",
+        "logo_image_NKtPqt",
+        "logo_image_AUcaqF",
+        "logo_image_yxiV6j",
+        "logo_image_NADhJP",
+        "logo_image_9FKder",
+        "logo_image_tACAjg",
+        "logo_image_FzJPKc",
+        "logo_image_zAnqMt",
+        "logo_image_8MUGjB"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "AS SEEN AS",
+        "logo_opacity": 76,
+        "divider": true
+      }
+    },
     "f0c9857d-aa6a-41bc-95ed-f93d4891bf0f": {
       "type": "promo-grid",
       "blocks": {
@@ -643,99 +736,6 @@
         "speed": 300
       }
     },
-    "logo_list_Kf4TVi": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_image_xiM7nH": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/IGN.png",
-            "link": "https://www.ign.com/articles/ataris-gamestation-go-rolls-the-trak-ball-paddle-and-keypad-controllers-into-one-handheld-console"
-          }
-        },
-        "logo_image_NKtPqt": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/ESPN.png",
-            "link": "https://www.espn.com/gaming/story/_/id/43274100/atari-gamestation-go-handheld-reveal"
-          }
-        },
-        "logo_image_AUcaqF": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Forbes.png",
-            "link": "https://www.forbes.com/sites/jasonevangelho/2025/01/03/atari-has-entered-the-chat/"
-          }
-        },
-        "logo_image_yxiV6j": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Digital_Trends.png",
-            "link": "https://www.digitaltrends.com/gaming/atari-gamestation-go-hands-on/"
-          }
-        },
-        "logo_image_NADhJP": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Sports_Illustrated.png",
-            "link": ""
-          }
-        },
-        "logo_image_9FKder": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Billboard.png",
-            "link": ""
-          }
-        },
-        "logo_image_tACAjg": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/yanko_Design.png",
-            "link": ""
-          }
-        },
-        "logo_image_FzJPKc": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/Newsweek.png",
-            "link": ""
-          }
-        },
-        "logo_image_zAnqMt": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/CNN.png",
-            "link": ""
-          }
-        },
-        "logo_image_8MUGjB": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify://shop_images/The_Short_Cut.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_image_xiM7nH",
-        "logo_image_NKtPqt",
-        "logo_image_AUcaqF",
-        "logo_image_yxiV6j",
-        "logo_image_NADhJP",
-        "logo_image_9FKder",
-        "logo_image_tACAjg",
-        "logo_image_FzJPKc",
-        "logo_image_zAnqMt",
-        "logo_image_8MUGjB"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "AS SEEN AS",
-        "logo_opacity": 76,
-        "divider": false
-      }
-    },
     "testimonials_7A8rXB": {
       "type": "testimonials",
       "blocks": {
@@ -808,6 +808,7 @@
     "e78485fc-7612-4766-a96f-34800d6bb942",
     "776fe282-8229-4a93-9f52-557875a135e7",
     "e96ca56c-27ac-41db-b96d-be67144ef9b9",
+    "logo_list_Kf4TVi",
     "f0c9857d-aa6a-41bc-95ed-f93d4891bf0f",
     "9b92aceb-2544-42dc-8104-1f273b752d78",
     "featured-collection",
@@ -815,7 +816,6 @@
     "26ae94f9-40e0-4dcf-82c2-7189ad4ed2a1",
     "1695350325f76d86b2",
     "b21c6d06-9e29-402f-90d4-6e6b6acc3d43",
-    "logo_list_Kf4TVi",
     "testimonials_7A8rXB"
   ]
 }
