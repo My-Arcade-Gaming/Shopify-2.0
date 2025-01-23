@@ -426,42 +426,42 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/Sports_Illustrated.png",
-            "link": ""
+            "link": "https://www.si.com/videogames/news/atari-gaming-handheld-reveal"
           }
         },
         "logo_image_9FKder": {
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/Billboard.png",
-            "link": ""
+            "link": "https://www.billboard.com/culture/product-recommendations/best-ces-2025-products-where-to-buy-online-1235869402/"
           }
         },
         "logo_image_tACAjg": {
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/yanko_Design.png",
-            "link": ""
+            "link": "https://www.yankodesign.com/2025/01/11/my-arcade-atari-gamestation-go-takes-the-glorious-history-of-gaming-with-you-anywhere"
           }
         },
         "logo_image_FzJPKc": {
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/Newsweek.png",
-            "link": ""
+            "link": "https://www.newsweek.com/entertainment/atari-reveal-new-handheld-console-called-gamestation-go-ces-2025-2009213"
           }
         },
         "logo_image_zAnqMt": {
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/CNN.png",
-            "link": ""
+            "link": "https://www.cnn.com/cnn-underscored/electronics/best-of-ces-2025"
           }
         },
         "logo_image_8MUGjB": {
           "type": "logo_image",
           "settings": {
             "image": "shopify://shop_images/The_Short_Cut.png",
-            "link": ""
+            "link": "https://www.theshortcut.com/p/the-shortcut-ces-2025-awards"
           }
         }
       },
@@ -477,7 +477,6 @@
         "logo_image_zAnqMt",
         "logo_image_8MUGjB"
       ],
-      "disabled": true,
       "settings": {
         "title": "AS SEEN ON",
         "logo_opacity": 76,
