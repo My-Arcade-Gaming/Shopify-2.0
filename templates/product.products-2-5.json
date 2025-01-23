@@ -71,7 +71,7 @@
         "custom_Twkjqp": {
           "type": "custom",
           "settings": {
-            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions.png' | file_url }}\" alt=\"Description of the image\" />"
+            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions-v2.png' | file_url }}\" alt=\"Description of the image\" />"
           }
         },
         "separator_JUKiNY": {
