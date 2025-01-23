@@ -322,7 +322,7 @@
       "settings": {
         "title": "Featured collection",
         "home_featured_products": "new-releases",
-        "per_row": 4,
+        "per_row": 3,
         "rows": 1,
         "mobile_scrollable": true,
         "view_all": true,
