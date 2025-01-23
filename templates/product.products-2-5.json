@@ -257,7 +257,7 @@
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-1": {
           "type": "text_block",
           "settings": {
-            "icon": "gears",
+            "icon": "stopwatch",
             "title": "Screen Size",
             "text": "<p>{{ product.metafields.custom.screen_size.value }}</p>"
           }
