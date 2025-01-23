@@ -55,12 +55,11 @@
             "page": ""
           }
         },
-        "tab_QDGFgB": {
+        "tab_Y7en3K": {
           "type": "tab",
-          "disabled": true,
           "settings": {
-            "title": "Dimensions",
-            "content": "<p>\" alt=\"Description of the image\" /&gt;</p>",
+            "title": "User Guide",
+            "content": "",
             "page": ""
           }
         },
@@ -98,7 +97,7 @@
         "description",
         "tab",
         "tab_Qea9KD",
-        "tab_QDGFgB",
+        "tab_Y7en3K",
         "separator_Rr6Mey",
         "custom_Twkjqp",
         "separator_JUKiNY",
