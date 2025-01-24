@@ -140,8 +140,8 @@
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": false,
-        "divider": false
+        "narrow_column": true,
+        "divider": true
       }
     },
     "sub": {
