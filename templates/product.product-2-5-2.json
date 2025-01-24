@@ -263,10 +263,14 @@
             "page": ""
           }
         },
+        "separator_hqGM4k": {
+          "type": "separator",
+          "settings": {}
+        },
         "custom_pWjGA3": {
           "type": "custom",
           "settings": {
-            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions-v3.png' | file_url }}\" alt=\"Description of the image\" style=\"width: 50%; display: block; margin: 0 auto;\" />"
+            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions-v3.png' | file_url }}\" alt=\"Description of the image\" style=\"width: 40%; display: block; margin: 0 auto;\" />"
           }
         },
         "separator_AnqJVR": {
@@ -278,6 +282,7 @@
         "tab_gGjBLY",
         "tab_nVeNTg",
         "tab_erezGy",
+        "separator_hqGM4k",
         "custom_pWjGA3",
         "separator_AnqJVR"
       ],
