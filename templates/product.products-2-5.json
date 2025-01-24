@@ -51,7 +51,7 @@
           "type": "tab",
           "settings": {
             "title": "Specifications",
-            "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul><p>Tetris ® & © 1985~2024 Tetris Holding.</p>",
+            "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul>",
             "page": ""
           }
         },
@@ -123,32 +123,89 @@
     "slideshow_FpEAq7": {
       "type": "slideshow",
       "blocks": {
-        "image_AUkbrq": {
+        "image_dHzygC": {
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "",
-            "title_size": 80,
+            "title": "PREPARE TO QUALIFY",
+            "title_size": 40,
             "subheading": "",
             "link": "",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/Module-07-Optional_Slideshow-01.2.png",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-baner-pdp-03.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_AUkbrq": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "PREPARE TO QUALIFY",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-baner-pdp-01.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ydU6UP": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "PREPARE TO QUALIFY",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-baner-pdp-04.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        },
+        "image_Q4iPGU": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "PREPARE TO QUALIFY",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/Pole-Position-baner-pdp-07.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "image_AUkbrq"
+        "image_dHzygC",
+        "image_AUkbrq",
+        "image_ydU6UP",
+        "image_Q4iPGU"
       ],
       "settings": {
         "section_height": "650px",
         "mobile_height": "auto",
-        "parallax": true,
+        "parallax": false,
         "style": "bars",
         "autoplay": true,
         "autoplay_speed": 5,
@@ -213,6 +270,7 @@
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2",
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "align_text": "center",
@@ -221,6 +279,27 @@
         "button_label": "",
         "button_link": "",
         "divider": false
+      }
+    },
+    "text_and_image_VCy49k": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Pole-Position-baner-pdp-01.png",
+        "image_mask": "square",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
       }
     },
     "product-recommendations": {
@@ -263,6 +342,7 @@
     "sub",
     "background-image-text",
     "df696584-1c28-416a-909e-ba014811af78",
+    "text_and_image_VCy49k",
     "product-recommendations",
     "recently-viewed",
     "collection-return",
