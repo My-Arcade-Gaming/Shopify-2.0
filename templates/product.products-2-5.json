@@ -379,18 +379,6 @@
       "disabled": true,
       "settings": {}
     },
-    "featured_collection_YpbNKn": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "NEW RELEASES",
-        "home_featured_products": "new-releases",
-        "per_row": 3,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "hotspots_gJTaaM": {
       "type": "hotspots",
       "blocks": {
@@ -434,7 +422,7 @@
         "product_MrhMQi"
       ],
       "settings": {
-        "title": "Ms Pac Man Collection",
+        "title": "Product Collection",
         "heading_size": "h2",
         "heading_position": "left",
         "image": "shopify://shop_images/Ms-pacman_Collection-Up_sell.png",
@@ -443,6 +431,18 @@
         "hotspot_style": "dot",
         "hotspot_color": "#ed1b2d",
         "lazyload_images": true
+      }
+    },
+    "featured_collection_YpbNKn": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NEW RELEASES",
+        "home_featured_products": "new-releases",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -459,7 +459,7 @@
     "product-recommendations",
     "recently-viewed",
     "collection-return",
-    "featured_collection_YpbNKn",
-    "hotspots_gJTaaM"
+    "hotspots_gJTaaM",
+    "featured_collection_YpbNKn"
   ]
 }
