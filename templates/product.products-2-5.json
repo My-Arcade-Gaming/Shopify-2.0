@@ -227,7 +227,7 @@
       ],
       "settings": {
         "align_text": "center",
-        "narrow_column": true,
+        "narrow_column": false,
         "divider": false
       }
     },
@@ -236,23 +236,6 @@
       "disabled": true,
       "settings": {
         "max_width": true
-      }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify://shop_images/Module-07-Optional_Slideshow-01.2.png",
-        "layout": "left",
-        "height": 550,
-        "framed": false,
-        "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": true
       }
     },
     "df696584-1c28-416a-909e-ba014811af78": {
@@ -483,6 +466,41 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "slideshow_pLgfkG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_36pRAb": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Racing Wheel",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Key-Feature-01-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_36pRAb"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -490,7 +508,6 @@
     "slideshow_FpEAq7",
     "rich_text_d7FPzp",
     "sub",
-    "background-image-text",
     "df696584-1c28-416a-909e-ba014811af78",
     "text_and_image_VCy49k",
     "text_and_image_4cypkY",
@@ -501,6 +518,7 @@
     "recently-viewed",
     "collection-return",
     "hotspots_gJTaaM",
-    "featured_collection_YpbNKn"
+    "featured_collection_YpbNKn",
+    "slideshow_pLgfkG"
   ]
 }
