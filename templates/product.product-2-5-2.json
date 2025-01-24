@@ -144,25 +144,6 @@
         "divider": false
       }
     },
-    "rich_text_cw4f9G": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_CPy8VA": {
-          "type": "heading",
-          "settings": {
-            "title": "Key Features"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CPy8VA"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": false,
-        "divider": false
-      }
-    },
     "sub": {
       "type": "product-full-width",
       "blocks": {
@@ -215,7 +196,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "max_width": true
+        "max_width": false
       }
     },
     "slideshow_FpEAq7": {
@@ -351,6 +332,25 @@
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
+        "divider": false
+      }
+    },
+    "rich_text_cw4f9G": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CPy8VA": {
+          "type": "heading",
+          "settings": {
+            "title": "Key Features"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CPy8VA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
         "divider": false
       }
     },
