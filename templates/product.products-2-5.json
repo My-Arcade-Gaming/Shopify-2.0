@@ -347,15 +347,15 @@
     "background_video_text_BWNmgn": {
       "type": "background-video-text",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Large video with text box",
-        "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.</p>",
+        "subtitle": "",
+        "title": "",
+        "text": "",
         "button_label": "",
         "button_link": "",
         "video_url": "https://www.youtube.com/watch?v=fL0f11NjUX8",
         "color_border": "#f4f4f4",
         "layout": "left",
-        "height": 550
+        "height": 650
       }
     },
     "product-recommendations": {
