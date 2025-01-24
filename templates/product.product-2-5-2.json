@@ -68,10 +68,12 @@
         },
         "separator_Rr6Mey": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "custom_Twkjqp": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "<img src=\"{{ 'Micro-PLayer-Dimensions-v3.png' | file_url }}\" alt=\"Description of the image\" />"
           }
@@ -240,14 +242,44 @@
         "tab_gGjBLY": {
           "type": "tab",
           "settings": {
-            "title": "Shipping information",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "title": "Features",
+            "content": "<ul><li>Officially licensed titles: POLE POSITION and POLE POSITION II.</li><li>High resolution 3.5\" full color display.</li><li>Features artwork inspired by the original POLE POSITION arcade cabinet.</li><li>Realistic racing controls.</li><li>High score saving.</li><li>Fully playable on the go.</li><li>Built-in speaker with volume control.</li><li>3.5 mm headphone port.</li><li>Adjustable screen brightness.</li><li>Powered by either 4 AA batteries (not included) or a USB-C® cable (not included).</li></ul>",
             "page": ""
           }
+        },
+        "tab_nVeNTg": {
+          "type": "tab",
+          "settings": {
+            "title": "Specifications",
+            "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_erezGy": {
+          "type": "tab",
+          "settings": {
+            "title": "User Guide",
+            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/1691/7407/files/DGUNL-4126_Standard_Micro_Player_User_Guide-B-A-Reset-Select-Start.pdf?v=1679586241\" target=\"_blank\" title=\"Micro Player User Guide\"><strong>Micro Player User Guide</strong></a></p>",
+            "page": ""
+          }
+        },
+        "custom_pWjGA3": {
+          "type": "custom",
+          "settings": {
+            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions-v3.png' | file_url }}\" alt=\"Description of the image\" style=\"width: 50%; display: block; margin: 0 auto;\" />"
+          }
+        },
+        "separator_AnqJVR": {
+          "type": "separator",
+          "settings": {}
         }
       },
       "block_order": [
-        "tab_gGjBLY"
+        "tab_gGjBLY",
+        "tab_nVeNTg",
+        "tab_erezGy",
+        "custom_pWjGA3",
+        "separator_AnqJVR"
       ],
       "settings": {
         "max_width": true
