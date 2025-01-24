@@ -303,7 +303,7 @@
     "text_and_image_VCy49k": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Pole-Position-baner-pdp-01.png",
+        "image": "shopify://shop_images/Key-Feature-01.png",
         "image_mask": "landscape",
         "image2_mask": "none",
         "subtitle": "",
@@ -324,7 +324,7 @@
     "text_and_image_4cypkY": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Pole-Position-baner-pdp-01.png",
+        "image": "shopify://shop_images/Key-Feature-02.png",
         "image_mask": "landscape",
         "image2_mask": "none",
         "subtitle": "",
@@ -345,7 +345,7 @@
     "text_and_image_3H3MLG": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/Pole-Position-baner-pdp-01.png",
+        "image": "shopify://shop_images/Key-Feature-03.png",
         "image_mask": "landscape",
         "image2_mask": "none",
         "subtitle": "",
