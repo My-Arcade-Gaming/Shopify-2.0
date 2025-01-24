@@ -423,7 +423,7 @@
       ],
       "settings": {
         "title": "Product Collection",
-        "heading_size": "h2",
+        "heading_size": "h3",
         "heading_position": "left",
         "image": "shopify://shop_images/Ms-pacman_Collection-Up_sell.png",
         "indent_image": false,
