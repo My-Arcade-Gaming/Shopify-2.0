@@ -36,11 +36,12 @@
         "description": {
           "type": "description",
           "settings": {
-            "is_tab": true
+            "is_tab": false
           }
         },
         "tab": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Features",
             "content": "<ul><li>Officially licensed titles: POLE POSITION and POLE POSITION II.</li><li>High resolution 3.5\" full color display.</li><li>Features artwork inspired by the original POLE POSITION arcade cabinet.</li><li>Realistic racing controls.</li><li>High score saving.</li><li>Fully playable on the go.</li><li>Built-in speaker with volume control.</li><li>3.5 mm headphone port.</li><li>Adjustable screen brightness.</li><li>Powered by either 4 AA batteries (not included) or a USB-C® cable (not included).</li></ul>",
@@ -49,6 +50,7 @@
         },
         "tab_Qea9KD": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Specifications",
             "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul>",
@@ -57,6 +59,7 @@
         },
         "tab_Y7en3K": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "User Guide",
             "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/1691/7407/files/DGUNL-4126_Standard_Micro_Player_User_Guide-B-A-Reset-Select-Start.pdf?v=1679586241\" target=\"_blank\" title=\"Micro Player User Guide\"><strong>Micro Player User Guide</strong></a></p>",
@@ -113,7 +116,7 @@
         "image_size": "large",
         "product_zoom_enable": true,
         "thumbnail_position": "beside",
-        "thumbnail_height": "flexible",
+        "thumbnail_height": "fixed",
         "thumbnail_arrows": true,
         "mobile_layout": "partial",
         "enable_video_looping": true,
@@ -246,7 +249,6 @@
       "block_order": [
         "tab_gGjBLY"
       ],
-      "disabled": true,
       "settings": {
         "max_width": true
       }
@@ -320,7 +322,6 @@
       "block_order": [
         "image_36pRAb"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -356,7 +357,6 @@
       "block_order": [
         "image_Ca7cYX"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -392,7 +392,6 @@
       "block_order": [
         "image_VAqrai"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -428,7 +427,6 @@
       "block_order": [
         "image_mmG3di"
       ],
-      "disabled": true,
       "settings": {
         "section_height": "550px",
         "mobile_height": "auto",
@@ -438,125 +436,6 @@
         "autoplay_speed": 5,
         "lazyload_images": true
       }
-    },
-    "text_and_image_VCy49k": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Key-Feature-01.png",
-        "image_mask": "landscape",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Racing Wheel",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_4cypkY": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Key-Feature-02.png",
-        "image_mask": "landscape",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "High-DefScreen",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "66",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_3H3MLG": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Key-Feature-03.png",
-        "image_mask": "landscape",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "USBC + Batteries",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "66",
-        "layout": "right",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "text_and_image_BJGdAY": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/Key-Feature-04.png",
-        "image_mask": "landscape",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Tactile Buttons",
-        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "image_width": "66",
-        "layout": "left",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
-    },
-    "background_video_text_BWNmgn": {
-      "type": "background-video-text",
-      "settings": {
-        "subtitle": "",
-        "title": "",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "video_url": "https://www.youtube.com/watch?v=fL0f11NjUX8",
-        "color_border": "#f4f4f4",
-        "layout": "left",
-        "height": 650
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "disabled": true,
-      "settings": {
-        "product_recommendations_heading": "You may also like",
-        "related_count": 4,
-        "products_per_row": 4
-      }
-    },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "disabled": true,
-      "settings": {
-        "recent_count": 4
-      }
-    },
-    "collection-return": {
-      "type": "collection-return",
-      "disabled": true,
-      "settings": {}
     },
     "hotspots_gJTaaM": {
       "type": "hotspots",
@@ -612,6 +491,41 @@
         "lazyload_images": true
       }
     },
+    "background_video_text_BWNmgn": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https://www.youtube.com/watch?v=fL0f11NjUX8",
+        "color_border": "#f4f4f4",
+        "layout": "left",
+        "height": 650
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4,
+        "products_per_row": 4
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 4
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
     "featured_collection_YpbNKn": {
       "type": "featured-collection",
       "settings": {
@@ -635,15 +549,11 @@
     "slideshow_D69YQp",
     "slideshow_XRwz9N",
     "slideshow_4xTN9R",
-    "text_and_image_VCy49k",
-    "text_and_image_4cypkY",
-    "text_and_image_3H3MLG",
-    "text_and_image_BJGdAY",
+    "hotspots_gJTaaM",
     "background_video_text_BWNmgn",
     "product-recommendations",
     "recently-viewed",
     "collection-return",
-    "hotspots_gJTaaM",
     "featured_collection_YpbNKn"
   ]
 }
