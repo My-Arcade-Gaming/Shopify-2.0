@@ -240,7 +240,6 @@
     },
     "background-image-text": {
       "type": "background-image-text",
-      "disabled": true,
       "settings": {
         "subtitle": "Impressive",
         "title": "",
@@ -363,6 +362,27 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_BJGdAY": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/Key-Feature-04.png",
+        "image_mask": "landscape",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Tactile Buttons",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "image_width": "66",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "background_video_text_BWNmgn": {
       "type": "background-video-text",
       "settings": {
@@ -475,6 +495,7 @@
     "text_and_image_VCy49k",
     "text_and_image_4cypkY",
     "text_and_image_3H3MLG",
+    "text_and_image_BJGdAY",
     "background_video_text_BWNmgn",
     "product-recommendations",
     "recently-viewed",
