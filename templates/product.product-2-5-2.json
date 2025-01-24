@@ -125,6 +125,99 @@
         "product_video_style": "muted"
       }
     },
+    "rich_text_d7FPzp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U3PWNa": {
+          "type": "heading",
+          "settings": {
+            "title": "Key Features"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U3PWNa"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "rich_text_cw4f9G": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CPy8VA": {
+          "type": "heading",
+          "settings": {
+            "title": "Key Features"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CPy8VA"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "separator_hqGM4k": {
+          "type": "separator",
+          "settings": {}
+        },
+        "custom_pWjGA3": {
+          "type": "custom",
+          "settings": {
+            "code": "<img src=\"{{ 'Schematics.png' | file_url }}\" alt=\"Description of the image\" style=\"width: 100%; display: block; margin: 0 auto;\" />"
+          }
+        },
+        "separator_AnqJVR": {
+          "type": "separator",
+          "settings": {}
+        },
+        "tab_gGjBLY": {
+          "type": "tab",
+          "settings": {
+            "title": "Features",
+            "content": "<ul><li>Officially licensed titles: POLE POSITION and POLE POSITION II.</li><li>High resolution 3.5\" full color display.</li><li>Features artwork inspired by the original POLE POSITION arcade cabinet.</li><li>Realistic racing controls.</li><li>High score saving.</li><li>Fully playable on the go.</li><li>Built-in speaker with volume control.</li><li>3.5 mm headphone port.</li><li>Adjustable screen brightness.</li><li>Powered by either 4 AA batteries (not included) or a USB-C® cable (not included).</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_nVeNTg": {
+          "type": "tab",
+          "settings": {
+            "title": "Specifications",
+            "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_erezGy": {
+          "type": "tab",
+          "settings": {
+            "title": "User Guide",
+            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/1691/7407/files/DGUNL-4126_Standard_Micro_Player_User_Guide-B-A-Reset-Select-Start.pdf?v=1679586241\" target=\"_blank\" title=\"Micro Player User Guide\"><strong>Micro Player User Guide</strong></a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "separator_hqGM4k",
+        "custom_pWjGA3",
+        "separator_AnqJVR",
+        "tab_gGjBLY",
+        "tab_nVeNTg",
+        "tab_erezGy"
+      ],
+      "custom_css": [],
+      "settings": {
+        "max_width": true
+      }
+    },
     "slideshow_FpEAq7": {
       "type": "slideshow",
       "blocks": {
@@ -215,79 +308,6 @@
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
-      }
-    },
-    "rich_text_d7FPzp": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_U3PWNa": {
-          "type": "heading",
-          "settings": {
-            "title": "Key Features"
-          }
-        }
-      },
-      "block_order": [
-        "heading_U3PWNa"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": false,
-        "divider": false
-      }
-    },
-    "sub": {
-      "type": "product-full-width",
-      "blocks": {
-        "tab_gGjBLY": {
-          "type": "tab",
-          "settings": {
-            "title": "Features",
-            "content": "<ul><li>Officially licensed titles: POLE POSITION and POLE POSITION II.</li><li>High resolution 3.5\" full color display.</li><li>Features artwork inspired by the original POLE POSITION arcade cabinet.</li><li>Realistic racing controls.</li><li>High score saving.</li><li>Fully playable on the go.</li><li>Built-in speaker with volume control.</li><li>3.5 mm headphone port.</li><li>Adjustable screen brightness.</li><li>Powered by either 4 AA batteries (not included) or a USB-C® cable (not included).</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_nVeNTg": {
-          "type": "tab",
-          "settings": {
-            "title": "Specifications",
-            "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_erezGy": {
-          "type": "tab",
-          "settings": {
-            "title": "User Guide",
-            "content": "<p><a href=\"https://cdn.shopify.com/s/files/1/1691/7407/files/DGUNL-4126_Standard_Micro_Player_User_Guide-B-A-Reset-Select-Start.pdf?v=1679586241\" target=\"_blank\" title=\"Micro Player User Guide\"><strong>Micro Player User Guide</strong></a></p>",
-            "page": ""
-          }
-        },
-        "separator_hqGM4k": {
-          "type": "separator",
-          "settings": {}
-        },
-        "custom_pWjGA3": {
-          "type": "custom",
-          "settings": {
-            "code": "<img src=\"{{ 'Micro-PLayer-Dimensions-v3.png' | file_url }}\" alt=\"Description of the image\" style=\"width: 40%; display: block; margin: 0 auto;\" />"
-          }
-        },
-        "separator_AnqJVR": {
-          "type": "separator",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "tab_gGjBLY",
-        "tab_nVeNTg",
-        "tab_erezGy",
-        "separator_hqGM4k",
-        "custom_pWjGA3",
-        "separator_AnqJVR"
-      ],
-      "settings": {
-        "max_width": true
       }
     },
     "df696584-1c28-416a-909e-ba014811af78": {
@@ -578,10 +598,11 @@
   },
   "order": [
     "main",
-    "slideshow_FpEAq7",
     "rich_text_d7FPzp",
     "sub",
+    "slideshow_FpEAq7",
     "df696584-1c28-416a-909e-ba014811af78",
+    "rich_text_cw4f9G",
     "slideshow_pLgfkG",
     "slideshow_D69YQp",
     "slideshow_XRwz9N",
