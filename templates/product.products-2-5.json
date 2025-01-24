@@ -136,31 +136,14 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        },
-        "image_JhqMxJ": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Two line\ntitle slide.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Module-07-Optional_Slideshow-01.2.png",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
         }
       },
       "block_order": [
-        "image_AUkbrq",
-        "image_JhqMxJ"
+        "image_AUkbrq"
       ],
       "settings": {
         "section_height": "650px",
@@ -184,71 +167,17 @@
       "disabled": true,
       "settings": {
         "subtitle": "Impressive",
-        "title": "About your brand",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+        "title": "",
+        "text": "",
         "button_label": "",
         "button_link": "",
+        "image": "shopify://shop_images/Module-07-Optional_Slideshow-01.2.png",
         "layout": "left",
         "height": 550,
         "framed": false,
         "parallax": false,
         "parallax_direction": "top",
         "lazyload_images": true
-      }
-    },
-    "testimonials": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonials-0": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonials-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonial_GbnfFr": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "testimonials-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "Los Angeles, CA"
-          }
-        }
-      },
-      "block_order": [
-        "testimonials-0",
-        "testimonials-1",
-        "testimonial_GbnfFr",
-        "testimonials-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Testimonials",
-        "align_text": "center",
-        "round_images": true,
-        "color_background": "#f9f9f9",
-        "color_text": "#1c1d1d"
       }
     },
     "df696584-1c28-416a-909e-ba014811af78": {
@@ -259,23 +188,23 @@
           "settings": {
             "icon": "stopwatch",
             "title": "Screen Size",
-            "text": "<p>{{ product.metafields.custom.screen_size.value }}</p>"
+            "text": "<h1><strong>{{ product.metafields.custom.screen_size.value }}</strong></h1>"
           }
         },
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2": {
           "type": "text_block",
           "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
+            "icon": "cart",
+            "title": "USB-C",
+            "text": ""
           }
         },
         "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3": {
           "type": "text_block",
           "settings": {
             "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
+            "title": "Games",
+            "text": "<h1><strong>2</strong></h1>"
           }
         }
       },
@@ -287,7 +216,7 @@
       "settings": {
         "title": "",
         "align_text": "center",
-        "desktop_columns_per_row": 3,
+        "desktop_columns_per_row": 4,
         "icon_color": "#000000",
         "button_label": "",
         "button_link": "",
@@ -333,7 +262,6 @@
     "slideshow_FpEAq7",
     "sub",
     "background-image-text",
-    "testimonials",
     "df696584-1c28-416a-909e-ba014811af78",
     "product-recommendations",
     "recently-viewed",
