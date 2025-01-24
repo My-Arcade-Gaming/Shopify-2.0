@@ -233,6 +233,19 @@
     },
     "sub": {
       "type": "product-full-width",
+      "blocks": {
+        "tab_gGjBLY": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_gGjBLY"
+      ],
       "disabled": true,
       "settings": {
         "max_width": true
@@ -280,6 +293,150 @@
         "button_label": "",
         "button_link": "",
         "divider": false
+      }
+    },
+    "slideshow_pLgfkG": {
+      "type": "slideshow",
+      "blocks": {
+        "image_36pRAb": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Racing Wheel",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Key-Feature-01-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_36pRAb"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_D69YQp": {
+      "type": "slideshow",
+      "blocks": {
+        "image_Ca7cYX": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "High-Def Screen",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify://shop_images/Key-Feature-03-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_Ca7cYX"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_XRwz9N": {
+      "type": "slideshow",
+      "blocks": {
+        "image_VAqrai": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "USBC + Batteries",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Key-Feature-04-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_VAqrai"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_4xTN9R": {
+      "type": "slideshow",
+      "blocks": {
+        "image_mmG3di": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Tactile Buttons",
+            "title_size": 50,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify://shop_images/Key-Feature-02-02.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_mmG3di"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
       }
     },
     "text_and_image_VCy49k": {
@@ -466,41 +623,6 @@
         "view_all": true,
         "divider": false
       }
-    },
-    "slideshow_pLgfkG": {
-      "type": "slideshow",
-      "blocks": {
-        "image_36pRAb": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "Racing Wheel",
-            "title_size": 50,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-left",
-            "image": "shopify://shop_images/Key-Feature-01-02.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_36pRAb"
-      ],
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
@@ -509,6 +631,10 @@
     "rich_text_d7FPzp",
     "sub",
     "df696584-1c28-416a-909e-ba014811af78",
+    "slideshow_pLgfkG",
+    "slideshow_D69YQp",
+    "slideshow_XRwz9N",
+    "slideshow_4xTN9R",
     "text_and_image_VCy49k",
     "text_and_image_4cypkY",
     "text_and_image_3H3MLG",
@@ -518,7 +644,6 @@
     "recently-viewed",
     "collection-return",
     "hotspots_gJTaaM",
-    "featured_collection_YpbNKn",
-    "slideshow_pLgfkG"
+    "featured_collection_YpbNKn"
   ]
 }
