@@ -341,7 +341,7 @@
         "heading_CPy8VA": {
           "type": "heading",
           "settings": {
-            "title": "Key Features"
+            "title": "Product Highlights"
           }
         }
       },
@@ -380,7 +380,7 @@
         "image_36pRAb"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -415,7 +415,7 @@
         "image_Ca7cYX"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -450,7 +450,7 @@
         "image_VAqrai"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
@@ -485,7 +485,7 @@
         "image_mmG3di"
       ],
       "settings": {
-        "section_height": "550px",
+        "section_height": "450px",
         "mobile_height": "auto",
         "parallax": false,
         "style": "bars",
