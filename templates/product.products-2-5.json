@@ -390,6 +390,60 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "hotspots_gJTaaM": {
+      "type": "hotspots",
+      "blocks": {
+        "product_UaGFFP": {
+          "type": "product",
+          "settings": {
+            "featured_product": "ms-pac-man-pocket-player",
+            "vertical": 58,
+            "horizontal": 20
+          }
+        },
+        "product_eFfUjU": {
+          "type": "product",
+          "settings": {
+            "featured_product": "ms-pac-man-joystick-player",
+            "vertical": 44,
+            "horizontal": 58
+          }
+        },
+        "product_gq9njX": {
+          "type": "product",
+          "settings": {
+            "featured_product": "ms-pac-man-micro-player-pro",
+            "vertical": 42,
+            "horizontal": 37
+          }
+        },
+        "product_MrhMQi": {
+          "type": "product",
+          "settings": {
+            "featured_product": "ms-pac-man-nano-player-pro",
+            "vertical": 55,
+            "horizontal": 75
+          }
+        }
+      },
+      "block_order": [
+        "product_UaGFFP",
+        "product_eFfUjU",
+        "product_gq9njX",
+        "product_MrhMQi"
+      ],
+      "settings": {
+        "title": "Ms Pac Man Collection",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "image": "shopify://shop_images/Ms-pacman_Collection-Up_sell.png",
+        "indent_image": false,
+        "image_position": "left",
+        "hotspot_style": "bag",
+        "hotspot_color": "#000000",
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -405,6 +459,7 @@
     "product-recommendations",
     "recently-viewed",
     "collection-return",
-    "featured_collection_YpbNKn"
+    "featured_collection_YpbNKn",
+    "hotspots_gJTaaM"
   ]
 }
