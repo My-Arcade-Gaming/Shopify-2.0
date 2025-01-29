@@ -43,7 +43,7 @@
           "type": "tab",
           "settings": {
             "title": "Features",
-            "content": "<ul><li>Officially licensed titles: POLE POSITION and POLE POSITION II.</li><li>High resolution 3.5\" full color display.</li><li>Features artwork inspired by the original POLE POSITION arcade cabinet.</li><li>Realistic racing controls.</li><li>High score saving.</li><li>Fully playable on the go.</li><li>Built-in speaker with volume control.</li><li>3.5 mm headphone port.</li><li>Adjustable screen brightness.</li><li>Powered by either 4 AA batteries (not included) or a USB-C® cable (not included).</li></ul>",
+            "content": "{{ product.metafields.custom.product_features | metafield_tag }}",
             "page": ""
           }
         },
