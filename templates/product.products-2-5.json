@@ -69,12 +69,14 @@
         },
         "custom_Twkjqp": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "code": "<img src={{'Pole_Position_Racing_Player_Front_Package.png' | file_url }}\" alt=\"Description of the image\" />"
           }
         },
         "separator_JUKiNY": {
           "type": "separator",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
@@ -118,6 +120,37 @@
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
+      }
+    },
+    "advanced_content_yUEmyz": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ifbCHF": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.product_test.value }}",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_iEBnUD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ifbCHF",
+        "liquid_iEBnUD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
       }
     },
     "slideshow_FpEAq7": {
@@ -627,6 +660,7 @@
   },
   "order": [
     "main",
+    "advanced_content_yUEmyz",
     "slideshow_FpEAq7",
     "rich_text_d7FPzp",
     "sub",
