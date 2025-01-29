@@ -569,7 +569,7 @@
         "text": "",
         "button_label": "",
         "button_link": "",
-        "video_url": "https://www.youtube.com/watch?v=fL0f11NjUX8",
+        "video_url": "{{ product.metafields.custom.product_video.value }}",
         "color_border": "#f4f4f4",
         "layout": "left",
         "height": 650
