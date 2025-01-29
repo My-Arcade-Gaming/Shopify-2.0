@@ -73,14 +73,6 @@
             "code": "<img src={{'Pole_Position_Racing_Player_Front_Package.png' | file_url }}\" alt=\"Description of the image\" />"
           }
         },
-        "tab_abyhpY": {
-          "type": "tab",
-          "settings": {
-            "title": "Shipping information",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
-            "page": ""
-          }
-        },
         "separator_JUKiNY": {
           "type": "separator",
           "settings": {}
@@ -108,7 +100,6 @@
         "tab_Y7en3K",
         "separator_Rr6Mey",
         "custom_Twkjqp",
-        "tab_abyhpY",
         "separator_JUKiNY",
         "buy_buttons",
         "share"
