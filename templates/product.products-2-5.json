@@ -122,37 +122,6 @@
         "product_video_style": "muted"
       }
     },
-    "advanced_content_yUEmyz": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ifbCHF": {
-          "type": "image",
-          "settings": {
-            "image": "{{ product.metafields.custom.product_test.value }}",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_iEBnUD": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ifbCHF",
-        "liquid_iEBnUD"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
     "slideshow_FpEAq7": {
       "type": "slideshow",
       "blocks": {
@@ -561,6 +530,37 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_yUEmyz": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_ifbCHF": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.product_test.value }}",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_iEBnUD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content</h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_ifbCHF",
+        "liquid_iEBnUD"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "background_video_text_BWNmgn": {
       "type": "background-video-text",
       "settings": {
@@ -665,7 +665,6 @@
   },
   "order": [
     "main",
-    "advanced_content_yUEmyz",
     "slideshow_FpEAq7",
     "rich_text_d7FPzp",
     "sub",
@@ -678,6 +677,7 @@
     "text_and_image_4cypkY",
     "text_and_image_3H3MLG",
     "text_and_image_BJGdAY",
+    "advanced_content_yUEmyz",
     "background_video_text_BWNmgn",
     "product-recommendations",
     "recently-viewed",
