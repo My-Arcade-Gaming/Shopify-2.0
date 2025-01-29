@@ -51,7 +51,7 @@
           "type": "tab",
           "settings": {
             "title": "Specifications",
-            "content": "<ul><li>Item Number: DGUNL-7025</li><li>UPC Number: 845620070251</li><li>Product Dimensions: 4.13 x 4.63 x 6.88 inches</li><li>Product Weight: 0.75 lbs.</li><li>Packaging Dimensions: 4.63 x 5.13 x 8.5 inches</li><li>Packaging Weight: 1.05 lbs.</li><li>Packaging Contents: Micro Player Pro & user guide</li></ul>",
+            "content": "{{ product.metafields.custom.product_specifications | metafield_tag }}",
             "page": ""
           }
         },
