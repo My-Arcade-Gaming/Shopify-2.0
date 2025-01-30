@@ -156,7 +156,7 @@
             "link_text_2": "",
             "color_accent": "rgba(0,0,0,0)",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/Pole-Position-baner-pdp-01.png",
+            "image": "{{ product.metafields.custom.product_ls_02.value }}",
             "parallax_direction": "top",
             "overlay_opacity": 0
           }
