@@ -74,7 +74,7 @@
             "title": "",
             "title_size": 80,
             "subheading": "",
-            "link": "shopify://products/data-east-hits",
+            "link": "shopify://products/data-east-hits-nano-player",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
@@ -145,8 +145,7 @@
       "blocks": {
         "collection_description": {
           "type": "collection_description",
-          "settings": {
-          }
+          "settings": {}
         },
         "subcollections": {
           "type": "subcollections",
@@ -190,8 +189,7 @@
         },
         "template--20545212186929__88c74b21-bcd3-46b5-9269-ebe8c54b21a8-price-1": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "template--20545212186929__88c74b21-bcd3-46b5-9269-ebe8c54b21a8-description-1": {
           "type": "description",
