@@ -116,6 +116,123 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "slideshow_4giDNT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_6GKpem": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "TETRIS®",
+            "title": "PIXEL\nPOCKET",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "SHOP NOW",
+            "link_2": "shopify://products/tetris-pixel-pocket",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Commercial-Banner-L-01.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_6GKpem"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_tcRYpx": {
+      "type": "slideshow",
+      "blocks": {
+        "image_aMtRpd": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "TETRIS®",
+            "title": "Gamer V",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "SHOP NOW",
+            "link_2": "shopify://products/tetris-gamer-v",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify://shop_images/Commercial-Banner-R.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_aMtRpd"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "slideshow_HX6jez": {
+      "type": "slideshow",
+      "blocks": {
+        "image_WGxt6V": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "TETRIS®",
+            "title": "Go Gamer",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "SHOP NOW",
+            "link_2": "shopify://products/tetris-go-gamer",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify://shop_images/Commercial-Banner-L-01.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_WGxt6V"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_Tgf3RN": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Releases",
+        "home_featured_products": "new-releases",
+        "per_row": 3,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -123,6 +240,10 @@
     "recently-viewed",
     "background_image_text_fMKizc",
     "rich_text_4K4Tin",
-    "featured_collection_XFyFeW"
+    "featured_collection_XFyFeW",
+    "slideshow_4giDNT",
+    "slideshow_tcRYpx",
+    "slideshow_HX6jez",
+    "featured_collection_Tgf3RN"
   ]
 }
