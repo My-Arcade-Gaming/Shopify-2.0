@@ -71,7 +71,7 @@
         "button_link": "",
         "image": "shopify://shop_images/Tetris-8bit-Collection-Hero-Banner.png",
         "layout": "left",
-        "height": 750,
+        "height": 650,
         "framed": false,
         "parallax": false,
         "parallax_direction": "top",
