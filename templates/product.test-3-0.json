@@ -9,6 +9,38 @@
  */
 {
   "sections": {
+    "hero_video_XfUdRU": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/428044c9bb584fbc96d812a99381b6cd.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "hero_video_MHXJQA": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/428044c9bb584fbc96d812a99381b6cd.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -126,6 +158,41 @@
         "max_width": true
       }
     },
+    "slideshow_cYeypD": {
+      "type": "slideshow",
+      "blocks": {
+        "image_CAPkgc": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "The New",
+            "title": "Atari\nGame Station Go",
+            "title_size": 41,
+            "subheading": "With All New SMART GLOW Technology",
+            "link": "",
+            "link_text": "Pre order",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/ATARI-Game-Station-PRO-PD-LS-01.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_CAPkgc"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "100vh",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
     "background-image-text": {
       "type": "background-image-text",
       "disabled": true,
@@ -198,52 +265,9 @@
         "color_text": "#1c1d1d"
       }
     },
-    "df696584-1c28-416a-909e-ba014811af78": {
-      "type": "text-with-icons",
-      "blocks": {
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "icon": "gears",
-            "title": "Screen Size",
-            "text": "<p>{{ product.metafields.custom.screen_size.value }}</p>"
-          }
-        },
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
-          }
-        },
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-1",
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-2",
-        "template--20545213301041__df696584-1c28-416a-909e-ba014811af78-text_block-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "desktop_columns_per_row": 3,
-        "icon_color": "#000000",
-        "button_label": "",
-        "button_link": "",
-        "divider": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_recommendations_heading": "You may also like",
         "related_count": 4,
@@ -252,41 +276,27 @@
     },
     "recently-viewed": {
       "type": "recently-viewed",
+      "disabled": true,
       "settings": {
         "recent_count": 4
       }
     },
     "collection-return": {
       "type": "collection-return",
+      "disabled": true,
       "settings": {}
-    },
-    "171235100839fe78e8": {
-      "type": "apps",
-      "blocks": {
-        "klaviyo_reviews_product_reviews_4E8gYQ": {
-          "type": "shopify://apps/klaviyo-reviews/blocks/product-reviews/db20e365-d984-4ac4-9655-e1588d951ca9",
-          "disabled": true,
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "klaviyo_reviews_product_reviews_4E8gYQ"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
+    "hero_video_XfUdRU",
     "main",
+    "hero_video_MHXJQA",
     "sub",
+    "slideshow_cYeypD",
     "background-image-text",
     "testimonials",
-    "df696584-1c28-416a-909e-ba014811af78",
     "product-recommendations",
     "recently-viewed",
-    "collection-return",
-    "171235100839fe78e8"
+    "collection-return"
   ]
 }
