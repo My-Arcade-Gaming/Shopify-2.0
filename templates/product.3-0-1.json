@@ -230,6 +230,22 @@
         "lazyload_images": true
       }
     },
+    "hero_video_ent4U9": {
+      "type": "hero-video",
+      "settings": {
+        "title": "TACTILE BUTON",
+        "title_size": 80,
+        "subheading": "Responsive Button, With high Quality",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/77c8ad1369f74af88e83ac0da71eb3f5.mp4",
+        "overlay_opacity": 0,
+        "section_height": "750px",
+        "mobile_height": "auto"
+      }
+    },
     "rich_text_d7FPzp": {
       "type": "rich-text",
       "blocks": {
@@ -353,6 +369,7 @@
     "hero_video_g8cW6w",
     "main",
     "slideshow_FpEAq7",
+    "hero_video_ent4U9",
     "rich_text_d7FPzp",
     "sub",
     "advanced_content_yUEmyz",
