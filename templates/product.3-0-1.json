@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "hero_video_g8cW6w": {
+      "type": "hero-video",
+      "settings": {
+        "title": "",
+        "title_size": 80,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/428044c9bb584fbc96d812a99381b6cd.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -334,6 +350,7 @@
     }
   },
   "order": [
+    "hero_video_g8cW6w",
     "main",
     "slideshow_FpEAq7",
     "rich_text_d7FPzp",
