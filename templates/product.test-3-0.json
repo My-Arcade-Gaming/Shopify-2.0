@@ -12,26 +12,10 @@
     "hero_video_XfUdRU": {
       "type": "hero-video",
       "settings": {
-        "title": "Bring your\nbrand to life.",
+        "title": "",
         "title_size": 80,
-        "subheading": "Seamless hero videos",
-        "link_text": "Optional button",
-        "link": "",
-        "color_accent": "rgba(0,0,0,0)",
-        "text_align": "vertical-center horizontal-left",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/428044c9bb584fbc96d812a99381b6cd.mp4",
-        "overlay_opacity": 0,
-        "section_height": "650px",
-        "mobile_height": "auto"
-      }
-    },
-    "hero_video_MHXJQA": {
-      "type": "hero-video",
-      "settings": {
-        "title": "Bring your\nbrand to life.",
-        "title_size": 80,
-        "subheading": "Seamless hero videos",
-        "link_text": "Optional button",
+        "subheading": "",
+        "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-left",
@@ -149,6 +133,22 @@
         "mobile_layout": "partial",
         "enable_video_looping": true,
         "product_video_style": "muted"
+      }
+    },
+    "hero_video_MHXJQA": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/428044c9bb584fbc96d812a99381b6cd.mp4",
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
       }
     },
     "sub": {
