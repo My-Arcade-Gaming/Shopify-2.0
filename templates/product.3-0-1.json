@@ -234,15 +234,15 @@
       "type": "hero-video",
       "settings": {
         "title": "TACTILE BUTON",
-        "title_size": 80,
+        "title_size": 46,
         "subheading": "Responsive Button, With high Quality",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-left",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/77c8ad1369f74af88e83ac0da71eb3f5.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9827b8b7cc1f4f23895d88e4d2bfc0b1.mp4",
         "overlay_opacity": 0,
-        "section_height": "750px",
+        "section_height": "450px",
         "mobile_height": "auto"
       }
     },
