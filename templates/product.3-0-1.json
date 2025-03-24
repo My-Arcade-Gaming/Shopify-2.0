@@ -19,7 +19,7 @@
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/428044c9bb584fbc96d812a99381b6cd.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/3351ff9dbf3f4ba18641afb2a068215f.mp4",
         "overlay_opacity": 0,
         "section_height": "650px",
         "mobile_height": "auto"
@@ -230,6 +230,37 @@
         "lazyload_images": true
       }
     },
+    "advanced_content_g9WHmx": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_eCRjXT": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.product_test.value }}",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_c6mKqq": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>high Quality Packaging</h2><p>Designed for durability and visual appeal, ensuring safe delivery and an engaging unboxing experience.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_eCRjXT",
+        "liquid_c6mKqq"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "hero_video_ent4U9": {
       "type": "hero-video",
       "settings": {
@@ -266,6 +297,46 @@
         "divider": false
       }
     },
+    "advanced_content_yUEmyz": {
+      "type": "advanced-content",
+      "blocks": {
+        "liquid_iEBnUD": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>high Quality Packaging</h2><p>Designed for durability and visual appeal, ensuring safe delivery and an engaging unboxing experience.</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_ifbCHF": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.product_test.value }}",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_Eiakdk": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_iEBnUD",
+        "image_ifbCHF",
+        "image_Eiakdk"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "sub": {
       "type": "product-full-width",
       "blocks": {
@@ -286,37 +357,6 @@
         "max_width": true
       }
     },
-    "advanced_content_yUEmyz": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_ifbCHF": {
-          "type": "image",
-          "settings": {
-            "image": "{{ product.metafields.custom.product_test.value }}",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_iEBnUD": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>high Quality Packaging</h2><p>Designed for durability and visual appeal, ensuring safe delivery and an engaging unboxing experience.</p>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_ifbCHF",
-        "liquid_iEBnUD"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
     "background_video_text_BWNmgn": {
       "type": "background-video-text",
       "settings": {
@@ -328,7 +368,7 @@
         "video_url": "{{ product.metafields.custom.product_video.value }}",
         "color_border": "#f4f4f4",
         "layout": "left",
-        "height": 650
+        "height": 550
       }
     },
     "product-recommendations": {
@@ -369,10 +409,11 @@
     "hero_video_g8cW6w",
     "main",
     "slideshow_FpEAq7",
+    "advanced_content_g9WHmx",
     "hero_video_ent4U9",
     "rich_text_d7FPzp",
-    "sub",
     "advanced_content_yUEmyz",
+    "sub",
     "background_video_text_BWNmgn",
     "product-recommendations",
     "recently-viewed",
