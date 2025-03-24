@@ -237,7 +237,8 @@
         "logo_image_kiciQc"
       ],
       "custom_css": [
-        ".image-element {transform: scale(0.5); /* Scales the image to 50% of its original size */ transform-origin: center; /* Ensures scaling happens from the center */}"
+        ".image-element {transform: scale(0.5); /* Scales the image to 50% of its original size */ transform-origin: center; /* Ensures scaling happens from the center */}",
+        ".index-section {margin: 0px 0;}"
       ],
       "settings": {
         "title": "",
