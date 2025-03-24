@@ -222,6 +222,46 @@
         "lazyload_images": true
       }
     },
+    "logo_list_dQdVkF": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_image_kiciQc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Tetris-Seal.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_kiciQc"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
+    "rich_text_HYDaG9": {
+      "type": "rich-text",
+      "blocks": {
+        "text_A4XgbV": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Tetris ®  & © 1985~2025 and Tetris trade dress are owned by Tetris Holding.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_A4XgbV"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "featured_collection_Tgf3RN": {
       "type": "featured-collection",
       "settings": {
@@ -244,6 +284,8 @@
     "slideshow_4giDNT",
     "slideshow_tcRYpx",
     "slideshow_HX6jez",
+    "logo_list_dQdVkF",
+    "rich_text_HYDaG9",
     "featured_collection_Tgf3RN"
   ]
 }
