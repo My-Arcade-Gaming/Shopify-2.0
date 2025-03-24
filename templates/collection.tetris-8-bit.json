@@ -227,7 +227,6 @@
       "blocks": {
         "logo_image_kiciQc": {
           "type": "logo_image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Tetris-Seal.png",
             "link": ""
@@ -237,7 +236,9 @@
       "block_order": [
         "logo_image_kiciQc"
       ],
-      "disabled": true,
+      "custom_css": [
+        ".image-element {transform: scale(0.5); /* Scales the image to 50% of its original size */ transform-origin: center; /* Ensures scaling happens from the center */}"
+      ],
       "settings": {
         "title": "",
         "logo_opacity": 100,
@@ -258,7 +259,6 @@
       "block_order": [
         "text_A4XgbV"
       ],
-      "disabled": true,
       "settings": {
         "align_text": "center",
         "narrow_column": true,
