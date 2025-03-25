@@ -277,6 +277,22 @@
         "mobile_height": "auto"
       }
     },
+    "hero_video_Nbd3XX": {
+      "type": "hero-video",
+      "settings": {
+        "title": "Screen",
+        "title_size": 46,
+        "subheading": "1.8\" full color screen",
+        "link_text": "",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-left",
+        "video_url": "",
+        "overlay_opacity": 0,
+        "section_height": "450px",
+        "mobile_height": "auto"
+      }
+    },
     "rich_text_d7FPzp": {
       "type": "rich-text",
       "blocks": {
@@ -411,6 +427,7 @@
     "slideshow_FpEAq7",
     "advanced_content_g9WHmx",
     "hero_video_ent4U9",
+    "hero_video_Nbd3XX",
     "rich_text_d7FPzp",
     "advanced_content_yUEmyz",
     "sub",
