@@ -277,19 +277,19 @@
         "mobile_height": "auto"
       }
     },
-    "hero_video_Nbd3XX": {
+    "hero_video_FxPTWN": {
       "type": "hero-video",
       "settings": {
-        "title": "Screen",
+        "title": "TACTILE BUTON",
         "title_size": 46,
-        "subheading": "1.8\" full color screen",
+        "subheading": "Responsive Button, With high Quality",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-left",
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/02d01774921647879438209f9fff2420.mov",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/87e6fbb486c24378bbfb221c0bdb63c4.mp4",
         "overlay_opacity": 0,
-        "section_height": "450px",
+        "section_height": "550px",
         "mobile_height": "auto"
       }
     },
@@ -335,6 +335,7 @@
         },
         "image_Eiakdk": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "width": "100%",
@@ -425,9 +426,9 @@
     "hero_video_g8cW6w",
     "main",
     "slideshow_FpEAq7",
-    "advanced_content_g9WHmx",
     "hero_video_ent4U9",
-    "hero_video_Nbd3XX",
+    "advanced_content_g9WHmx",
+    "hero_video_FxPTWN",
     "rich_text_d7FPzp",
     "advanced_content_yUEmyz",
     "sub",
