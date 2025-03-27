@@ -138,7 +138,7 @@
         "1869c40e-a487-4a91-97cf-04aac8e6fa68": {
           "type": "custom",
           "settings": {
-            "code": "<hr>\n<div style=\"page-break-before: always;\"></div>\n<h4>FEATURES</h4>\n<ul>\n<li>200+ video games built-in.</li>\n<li>Console connects via HDMI® to TV. </li>\n<li>2.4 GHz wireless joysticks with built-in paddles. </li>\n<li>Game save options.</li>\n<li>Dynamic RGB LED lights.</li>\n</ul>"
+            "code": "<hr>\n\n<h4>FEATURES</h4>\n<ul>\n<li>200+ video games built-in.</li>\n<li>Console connects via HDMI® to TV. </li>\n<li>2.4 GHz wireless joysticks with built-in paddles. </li>\n<li>Game save options.</li>\n<li>Dynamic RGB LED lights.</li>\n</ul>"
           }
         },
         "template--20545212186929__88c74b21-bcd3-46b5-9269-ebe8c54b21a8-buy_buttons-1": {
