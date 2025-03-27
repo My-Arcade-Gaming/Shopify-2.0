@@ -126,8 +126,7 @@
       "blocks": {
         "collection_description": {
           "type": "collection_description",
-          "settings": {
-          }
+          "settings": {}
         },
         "subcollections": {
           "type": "subcollections",
@@ -344,12 +343,7 @@
     },
     "71e875c2-83aa-4e6d-87a0-486101917cd1": {
       "type": "featured-collection",
-      "custom_css": [
-        ".index-section {margin: 0; background-color: #000; background-image: radial-gradient( circle 50vh at 50% 90%, #61686e, #51575d, #070c10 ); background-size: 100% 100%; background-repeat: no-repeat;}",
-        "h2 {color: #ed1b2d;}",
-        ".grid-product__title--heading {color: #ffffff; letter-spacing: 0em; text-transform: capitalize; font-weight: 900;}",
-        ".grid-product__price {color: #ed1b2d;}"
-      ],
+      "custom_css": [],
       "settings": {
         "title": "You May Also Like",
         "home_featured_products": "data-east",
