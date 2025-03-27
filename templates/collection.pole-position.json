@@ -262,115 +262,6 @@
         "lazyload_images": false
       }
     },
-    "background_image_text_cj7cVR": {
-      "type": "background-image-text",
-      "disabled": true,
-      "custom_css": [],
-      "settings": {
-        "subtitle": "",
-        "title": "Pedal To th eMetal",
-        "text": "<p>Having pedal-looking<br/>buttons on the mini retro gaming cab adds a touch of authenticity, giving<br/>players the sensation of a real racing experience. These buttons enhance the<br/>“pedal to the metal” feeling, making each game session more immersive and exciting. </p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify://shop_images/Pole-Position-Feature-02-Wheel-D.png",
-        "layout": "right",
-        "height": 450,
-        "framed": false,
-        "parallax": false,
-        "parallax_direction": "top",
-        "lazyload_images": false
-      }
-    },
-    "a1058db6-0bb2-45d6-b088-498a4d3f2c31": {
-      "type": "compare-models",
-      "blocks": {
-        "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Tetris_Micro_Player_Render_3.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Micro Player",
-            "text": "<p>High resolution 2.75” full color display.</p>",
-            "text2": "<p>Powered by either 4 AA batteries or by a USB-C cable.</p>",
-            "textwidth": "<p>3 inches</p>",
-            "textheight": "<p>4.5 inches</p>",
-            "textdepth": "<p>3.25 inches</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Tetris_Go_Gamer_2.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Go Gamer",
-            "imagescreen": "shopify://shop_images/icon-screensize-nano.png",
-            "text": "<p>High resolution 2.75” full color display.</p>",
-            "text2": "<p>Powered by either 4 AA batteries or by a USB-C cable.</p>",
-            "textwidth": "<p>3 inches</p>",
-            "textheight": "<p>4.5 inches</p>",
-            "textdepth": "<p>3.25 inches</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-3": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify://shop_images/Tetris_Pocket_Player_Pro_Render_2.png",
-            "image_mask": "none",
-            "image_width": 650,
-            "title": "Pocket Player",
-            "text": "<p>High resolution 2.75” full color display.</p>",
-            "text2": "<p>Powered by either 4 AA batteries or by a USB-C cable.</p>",
-            "textwidth": "<p>3 inches</p>",
-            "textheight": "<p>4.5 inches</p>",
-            "textdepth": "<p>3.25 inches</p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-1",
-        "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-2",
-        "template--20545212186929__a1058db6-0bb2-45d6-b088-498a4d3f2c31-text_block-3"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h5 {letter-spacing: 0; font-size: calc(var(--typeHeaderSize) * 0.35);}"
-      ],
-      "settings": {
-        "title": "Compare My Arcade® Models",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "71e875c2-83aa-4e6d-87a0-486101917cd1": {
-      "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [
-        ".index-section {margin: 0; background-color: #000; background-image: radial-gradient( circle 50vh at 50% 90%, #61686e, #51575d, #070c10 ); background-size: 100% 100%; background-repeat: no-repeat;}",
-        "h2 {color: #ed1b2d;}",
-        ".grid-product__title--heading {color: #ffffff; letter-spacing: 0em; text-transform: capitalize; font-weight: 900;}",
-        ".grid-product__price {color: #ed1b2d;}"
-      ],
-      "settings": {
-        "title": "You May Also Like",
-        "home_featured_products": "tetris-8bit",
-        "per_row": 3,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": false,
-        "divider": true
-      }
-    },
     "recently-viewed": {
       "type": "recently-viewed",
       "disabled": true,
@@ -478,58 +369,6 @@
         "lazyload_images": true
       }
     },
-    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3": {
-      "type": "testimonials",
-      "blocks": {
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>Absolutely nails the retro vibe! The miniature steering wheel and pedal-like buttons make the experience feel just like the original arcade game I remember.</p>",
-            "author": "Alfred B.",
-            "author_info": "Los Angeles, CA"
-          }
-        },
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>I've taken this little racer everywhere—from flights to camping trips—and it’s been a hit every time. The compact size makes it easy to travel with, and the dual power options are super convenient.</p>",
-            "author": "Jeremy S.",
-            "author_info": "West Haven, CT"
-          }
-        },
-        "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5-stars",
-            "testimonial": "<p>The attention to detail on the POLE POSITION Racing Player is impressive. From the artwork to the realistic steering wheel controls, this device feels like a true arcade experience in your hand.</p>",
-            "author": "John R.",
-            "author_info": "Waterloo, IA"
-          }
-        }
-      },
-      "block_order": [
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-2",
-        "template--20545212186929__71118810-5cfe-4cf6-ad8e-42875fb9f7f3-testimonial-1",
-        "30209aaa-0a54-4117-96eb-eb5e1d4f2cbb"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".testimonial-stars {color: #ed1b2d;}",
-        "cite {color: #ed1b2d;}",
-        ".testimonials-slider__text {background: none; box-shadow: none;}",
-        "p {font-size: 20 px;}",
-        ".testimonials-section--with-divider {border: 0;}"
-      ],
-      "settings": {
-        "title": "FROM OUR CUSTOMERS",
-        "align_text": "center",
-        "round_images": true,
-        "color_background": "#ffffff",
-        "color_text": "#1c1d1d"
-      }
-    },
     "hero_video_cmYRYM": {
       "type": "hero-video",
       "disabled": true,
@@ -570,12 +409,8 @@
     "88c74b21-bcd3-46b5-9269-ebe8c54b21a8",
     "c3670781-3d5d-4177-9458-bc3a38344ec8",
     "slideshow_GCyMeb",
-    "background_image_text_cj7cVR",
-    "a1058db6-0bb2-45d6-b088-498a4d3f2c31",
-    "71e875c2-83aa-4e6d-87a0-486101917cd1",
     "recently-viewed",
     "slideshow_7BqX3Q",
-    "71118810-5cfe-4cf6-ad8e-42875fb9f7f3",
     "hero_video_cmYRYM",
     "background_video_text_kA6Pxw"
   ]
